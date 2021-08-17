@@ -1,11 +1,11 @@
-shipper_group,first_pu_ontime_rate,pu_success_ontime_rate,first_deli_ontime_rate,deli_succcess_ontime_day1_rate,success_rate
-DS,0.9,0.9,0.9,0.9,0.9
-EN,0.9,0.9,0.9,0.9,0.9
-Lazada Master Account (ASC),0.9,0.9,0.9,0.9,0.9
-Others,0.9,0.9,0.9,0.9,0.9
-Self-Signup,0.9,0.9,0.9,0.9,0.9
-Shopee Vietnam,0.9,0.9,0.9,0.9,0.9
-Tiki Marketplace,0.9,0.9,0.9,0.9,0.9
-ES,0.9,0.9,0.9,0.9,0.9
-XB,0.9,0.9,0.9,0.9,0.9
-Affiliate,0.9,0.9,0.9,0.9,0.9
+shipper_group,first_pu_ontime_rate,pu_success_ontime_rate,first_deli_ontime_rate,deli_succcess_ontime_day1_rate,success_rate,check1,check2,check3,check4,check5
+DS,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+EN,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Lazada Master Account (ASC),0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Others,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Self-Signup,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Shopee Vietnam,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki Marketplace,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+ES,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+XB,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Affiliate,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
