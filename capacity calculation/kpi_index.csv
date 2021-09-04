@@ -1,11 +1,41 @@
-shipper_group,first_pu_ontime_rate,pu_success_ontime_rate,first_deli_ontime_rate,deli_succcess_ontime_day1_rate,success_rate,check1,check2,check3,check4,check5
-DS,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
-EN,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
-Lazada Master Account (ASC),0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
-Others,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
-Self-Signup,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
-Shopee Vietnam,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
-Tiki Marketplace,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
-ES,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
-XB,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
-Affiliate,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+shipper_group,hub_region,first_pu_ontime_rate,pu_success_ontime_rate,first_deli_ontime_rate,deli_succcess_ontime_day1_rate,success_rate,check1,check2,check3,check4,check5
+DS,HCM,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+EN,HCM,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+Lazada Master Account (ASC),HCM,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+Others,HCM,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+Self-Signup,HCM,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+Shopee Vietnam,HCM,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+Tiki Marketplace,HCM,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+ES,HCM,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+XB,HCM,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+Affiliate,HCM,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+DS,HN,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+EN,HN,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+Lazada Master Account (ASC),HN,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+Others,HN,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+Self-Signup,HN,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+Shopee Vietnam,HN,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+Tiki Marketplace,HN,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+ES,HN,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+XB,HN,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+Affiliate,HN,0.95,0.95,0.95,0.95,0.95,1,1,1,1,1
+DS,North,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+EN,North,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+Lazada Master Account (ASC),North,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+Others,North,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+Self-Signup,North,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+Shopee Vietnam,North,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+Tiki Marketplace,North,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+ES,North,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+XB,North,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+Affiliate,North,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+DS,South,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+EN,South,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+Lazada Master Account (ASC),South,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+Others,South,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+Self-Signup,South,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+Shopee Vietnam,South,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+Tiki Marketplace,South,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+ES,South,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+XB,South,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
+Affiliate,South,0.92,0.92,0.92,0.92,0.92,1,1,1,1,1
