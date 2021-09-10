@@ -1,535 +1,535 @@
-hub_id,hub_name,hub_region,province_code,hub_sector,created_month
-1162,QUA - Nam Tra My - SOU - SUB 2,South,QUA,MTTN,2020-04
-1163,QUA - Nam Giang 2 - SOU - SUB 2,South,QUA,MTTN,2020-04
-1165,NGA - Ky Son - NOR - SUB 2,North,NGA,BTB,2020-04
-1166,HCM Hub Liable,HCM,HCM,HCM,2020-04
-1160,VT - Con Dao - SOU - SUB 2,South,VT,DNB,2020-04
-341,PTH - Thanh Ba - NOR - SUB 2,North,PTH,NMM,2018-03
-351,BAL - Gia Rai - SOU - SUB 2,South,BAL,MT,2018-03
-359,DIB - Tuan Giao - NOR - SUB 2,North,DIB,NMM,2018-03
-373,BET - Mo Cay Nam - SOU - SUB 2,South,BET,MT,2018-03
-385,LAD - Bao Loc - SOU - SUB 2,South,LAD,MTTN,2018-03
-403,BIT - Tuy Phong - SOU - SUB 2,South,BIT,DNB,2018-03
-337,QUN - Hai Ha - NOR - SUB 2,North,QUN,DBSH,2018-03
-353,BAL - Hong Dan - SOU - SUB 2,South,BAL,MT,2018-03
-379,QNG - Mo Duc - SOU - SUB 2,South,QNG,MTTN,2018-03
-357,PTH - Thanh Son - NOR - SUB 2,North,PTH,NMM,2018-03
-389,HGI - Long My - SOU - SUB 2,South,HGI,MT,2018-03
-391,HGI - Phung Hiep - SOU - SUB 2,South,HGI,MT,2018-03
-327,NIT - Phan Rang - SOU,South,NIT,MTTN,2018-03
-343,NAD - Hai Hau - NOR - SUB 2,North,NAD,DBSH,2018-03
-407,BIT - La Gi - SOU - SUB 2,South,BIT,DNB,2018-03
-413,BAG - Son Dong - NOR - SUB 2,North,BAG,NMM,2018-03
-349,ANG - Chau Doc - SOU - SUB 2,South,ANG,MT,2018-03
-369,CAM - Cai Nuoc - SOU - SUB 2,South,CAM,MT,2018-03
-377,DAK - Buon Ho - SOU - SUB 2,South,DAK,MTTN,2018-03
-363,NIB - Gia Vien - NOR - SUB 2,North,NIB,DBSH,2018-03
-383,KOT - Ngoc Hoi - SOU - SUB 2,South,KOT,MTTN,2018-03
-415,LA - Duc Hoa - SOU - SUB 2,South,LA,DNB,2018-03
-409,KHH - Cam Ranh - SOU - SUB 2,South,KHH,MTTN,2018-03
-401,BIP - Binh Long - SOU - SUB 2,South,BIP,DNB,2018-03
-361,BAG - Hiep Hoa - NOR - SUB 2,North,BAG,NMM,2018-03
-371,DN - Dinh Quan - SOU - SUB 2,South,DN,DNB,2018-03
-395,TRV - Tieu Can - SOU - SUB 2,South,TRV,MT,2018-03
-397,BIP - Phuoc Long - SOU - SUB 2,South,BIP,DNB,2018-03
-339,VIP - Lap Thach - NOR - SUB 2,North,VIP,DBSH,2018-03
-345,THN - Pho Yen - NOR - SUB 2,North,THN,NMM,2018-03
-347,THN - Phu Luong - NOR - SUB 2,North,THN,NMM,2018-03
-367,CAM - Thoi Binh - SOU - SUB 2,South,CAM,MT,2018-03
-381,QNG - Binh Son - SOU - SUB 2,South,QNG,MTTN,2018-03
-411,QUA - Nui Thanh - SOU - SUB 2,South,QUA,MTTN,2018-03
-323,KHH - NTR - SOU - DP,South,KHH,MTTN,2018-03
-329,BAG - Luc Ngan - NOR - SUB 2,North,BAG,NMM,2018-03
-319,BID - Quy Nhon - SOU,South,BID,MTTN,2018-03
-321,PHY - Tuy Hoa - SOU,South,PHY,MTTN,2018-03
-333,QUN - Tien Yen - NOR - SUB 2,North,QUN,DBSH,2018-03
-365,DIB - Muong Cha - NOR - SUB 2,North,DIB,NMM,2018-03
-387,NIT - Ninh Phuoc - SOU - SUB 2,South,NIT,MTTN,2018-03
-405,BIT - Tanh Linh - SOU - SUB 2,South,BIT,DNB,2018-03
-331,QUN - Mong Cai - NOR,North,QUN,DBSH,2018-03
-355,THB - Hung Ha - NOR - SUB 2,North,THB,DBSH,2018-03
-393,VIL - Tra On - SOU - SUB 2,South,VIL,MT,2018-03
-325,TG - Cai Lay - SOU - SUB 2,South,TG,MT,2018-03
-335,QUN - Dong Trieu - NOR - SUB 2,North,QUN,DBSH,2018-03
-375,DAK - Lak - SOU - SUB 2,South,DAK,MTTN,2018-03
-399,BIP - Bu Dang - SOU - SUB 2,South,BIP,DNB,2018-03
-1156,VT - Chau Duc - SOU - SUB 2,South,VT,DNB,2020-03
-1158,THB - Tien Hai - NOR - SUB 2,North,THB,DBSH,2020-03
-1149,QUA - Dong Giang - SOU - SUB 2,South,QUA,MTTN,2020-03
-1152,VIL - Binh Minh - SOU - SUB 2,South,VIL,MT,2020-03
-1159,DN - Phu Thanh - SOU - SUB 2,South,DN,DNB,2020-03
-1148,QUA - Tay Giang - SOU - SUB 2,South,QUA,MTTN,2020-03
-1154,KHH - Cam Lam - SOU - SUB 2,South,KHH,MTTN,2020-03
-1146,BID - Van Canh - SOU - SUB 2,South,BID,MTTN,2020-03
-1147,KHH - Khanh Vinh - SOU - SUB 2,South,KHH,MTTN,2020-03
-1155,PHY - Song Cau - SOU - SUB 2,South,PHY,MTTN,2020-03
-997,NGA - Nam Dan - NOR - SUB 2,North,NGA,BTB,2019-06
-995,TAN - Ben Cau - SOU - SUB 2,South,TAN,DNB,2019-06
-996,HN - Thanh Tri - NOR - SUB 2 - DP,HN,HN,HN,2019-06
-992,HN - Thanh Oai - NOR - SUB 2 - DP,HN,HN,HN,2019-06
-993,PTH - Phu Ninh - NOR - SUB 2,North,PTH,NMM,2019-06
-994,DAN - Tuy Duc - SOU - SUB 2,South,DAN,MTTN,2019-06
-277,BD - Ben Cat - SOU - SUB 2,South,BD,DNB,2018-01
-275,DN - Long Thanh - SOU - SUB 2,South,DN,DNB,2018-01
-283,QUN - Cam Pha - NOR,North,QUN,DBSH,2018-01
-285,QUN - Uong Bi - NOR,North,QUN,DBSH,2018-01
-291,HGI - Hau Giang - SOU,South,HGI,MT,2018-01
-303,BAL - Bac Lieu - SOU,South,BAL,MT,2018-01
-287,DN - Long Khanh - SOU - SUB 2,South,DN,DNB,2018-01
-301,TTH - Thua Thien Hue - NOR,North,TTH,BTB,2018-01
-279,HAT - Ha Tinh - NOR,North,HAT,BTB,2018-01
-297,QUT - Quang Tri - NOR,North,QUT,BTB,2018-01
-305,CAM - Ca Mau - SOU,South,CAM,MT,2018-01
-295,HN - Nam Tu Liem - NOR - DP,HN,HN,HN,2018-01
-299,QUB - Quang Binh - NOR,North,QUB,BTB,2018-01
-281,NGA - Nghe An - NOR,North,NGA,BTB,2018-01
-289,CT - O Mon - SOU - SUB 2,South,CT,MT,2018-01
-76,Police,HCM,Pol,Others,2017-06
-84,BET - Ben Tre - SOU,South,BET,MT,2017-06
-80,HN - LOB - NOR - DP,HN,HN,HN,2017-06
-103322,HCM - QBT 2 - SOU - DP,HCM,HCM,HCM,2021-07
-103334,SOU EXP-COVID,South,SOU,Others,2021-07
-103321,BIT - Bac Binh - SOU - SUB 2,South,BIT,DNB,2021-07
-1004,DNG - Lien Chieu - SOU - DP,South,DNG,MTTN,2019-09
-1009,BN - Tu Son - NOR - SUB 2,North,BN,DBSH,2019-09
-1019,TUQ - Na Hang - NOR - SUB 2,North,TUQ,NMM,2019-09
-1025,THH - Quan Hoa - NOR - SUB 2,North,THH,BTB,2019-09
-1056,LAS - Van Quan - NOR - SUB 2,North,LAS,NMM,2019-09
-1062,CAB - Trung Khanh - NOR - SUB 2,North,CAB,NMM,2019-09
-1071,BD - Phu Giao - SOU - SUB 2,South,BD,DNB,2019-09
-1072,BD - Dau Tieng - SOU - SUB 2,South,BD,DNB,2019-09
-1005,BN - Que Vo - NOR - SUB 2,North,BN,DBSH,2019-09
-1017,YEB - Luc Yen - NOR - SUB 2,North,YEB,NMM,2019-09
-1021,TUQ - Lam Binh - NOR - SUB 2,North,TUQ,NMM,2019-09
-1028,THH - Quan Son - NOR - SUB 2,North,THH,BTB,2019-09
-1058,CAB - Ha Quang - NOR - SUB 2,North,CAB,NMM,2019-09
-1059,CAB - Thong Nong - NOR - SUB 2,North,CAB,NMM,2019-09
-1032,SOL - Quynh Nhai - NOR - SUB 2,North,SOL,NMM,2019-09
-1034,SOL - Thuan Chau - NOR - SUB 2,North,SOL,NMM,2019-09
-1043,HAG - Quang Binh - NOR - SUB 2,North,HAG,NMM,2019-09
-1048,LAC - Sin Ho - NOR - SUB 2,North,LAC,NMM,2019-09
-1013,HP - Thuy Nguyen - NOR - SUB 2,North,HP,DBSH,2019-09
-1031,BAK - Cho Don - NOR - SUB 2,North,BAK,NMM,2019-09
-1035,HAG - Yen Minh - NOR - SUB 2,North,HAG,NMM,2019-09
-1052,LAC - Muong Te - NOR - SUB 2,North,LAC,NMM,2019-09
-1066,CAB - Bao Lam - NOR - SUB 2,North,CAB,NMM,2019-09
-1024,THH - Thuong Xuan - NOR - SUB 2,North,THH,BTB,2019-09
-1045,HAT - Huong Khe - NOR - SUB 2,North,HAT,BTB,2019-09
-1057,CAB - Tra Linh - NOR - SUB 2,North,CAB,NMM,2019-09
-1074,CT - Phong Dien - SOU - SUB 2,South,CT,MT,2019-09
-1075,LA - Thu Thua - SOU - SUB 2,South,LA,DNB,2019-09
-1078,QUA - Phuoc Son - SOU - SUB 2,South,QUA,MTTN,2019-09
-1026,BAK - Ngan Son - NOR - SUB 2,North,BAK,NMM,2019-09
-1041,HAG - Hoang Su Phi - NOR - SUB 2,North,HAG,NMM,2019-09
-1042,HAG - Xin Man - NOR - SUB 2,North,HAG,NMM,2019-09
-1044,HAT - Duc Tho - NOR - SUB 2,North,HAT,BTB,2019-09
-1020,TUQ - Ham Yen - NOR - SUB 2,North,TUQ,NMM,2019-09
-1036,SOL - Phu Yen - NOR - SUB 2,North,SOL,NMM,2019-09
-1063,CAB - Ha Lang - NOR - SUB 2,North,CAB,NMM,2019-09
-1070,BD - Thuan Giao - SOU - SUB 2,South,BD,DNB,2019-09
-1003,BET - Cho Lach - SOU - SUB 2,South,BET,MT,2019-09
-1016,YEB - Mu Cang Chai - NOR - SUB 2,North,YEB,NMM,2019-09
-1022,THH - Nhu Thanh - NOR - SUB 2,North,THH,BTB,2019-09
-1023,THH - Thach Thanh - NOR - SUB 2,North,THH,BTB,2019-09
-1040,SOL - Yen Chau - NOR - SUB 2,North,SOL,NMM,2019-09
-1079,TTH - Phong Dien - NOR - SUB 2,North,TTH,BTB,2019-09
-1050,LAC - Nam Nhun - NOR - SUB 2,North,LAC,NMM,2019-09
-1008,BN - Yen Phong - NOR - SUB 2,North,BN,DBSH,2019-09
-1038,SOL - Sop Cop - NOR - SUB 2,North,SOL,NMM,2019-09
-1053,LAS - Dinh Lap - NOR - SUB 2,North,LAS,NMM,2019-09
-1054,LAS - Huu Lung - NOR - SUB 2,North,LAS,NMM,2019-09
-1064,NGA - Quy Chau - NOR - SUB 2,North,NGA,BTB,2019-09
-1030,THH - Ba Thuoc - NOR - SUB 2,North,THH,BTB,2019-09
-1033,BAK - Ba Be - NOR - SUB 2,North,BAK,NMM,2019-09
-1037,HAG - Meo Vac - NOR - SUB 2,North,HAG,NMM,2019-09
-1039,HAG - Dong Van - NOR - SUB 2,North,HAG,NMM,2019-09
-1047,NGA - Tan Ky - NOR - SUB 2,North,NGA,BTB,2019-09
-1067,CAB - Phuc Hoa - NOR - SUB 2,North,CAB,NMM,2019-09
-1012,HP - Le Chan - NOR - SUB 2,North,HP,DBSH,2019-09
-1029,BAK - Cho Moi - NOR - SUB 2,North,BAK,NMM,2019-09
-1049,LAS - Bac Son - NOR - SUB 2,North,LAS,NMM,2019-09
-1055,LAS - Trang Dinh - NOR - SUB 2,North,LAS,NMM,2019-09
-1018,YEB - Yen Binh - NOR - SUB 2,North,YEB,NMM,2019-09
-1046,LAC - Phong Tho - NOR - SUB 2,North,LAC,NMM,2019-09
-1060,CAB - Thach An - NOR - SUB 2,North,CAB,NMM,2019-09
-1065,CAB - Bao Lac - NOR - SUB 2,North,CAB,NMM,2019-09
-1076,LA - Thanh Hoa - SOU - SUB 2,South,LA,DNB,2019-09
-1010,HP - An Duong - NOR - SUB 2,North,HP,DBSH,2019-09
-1027,BAK - Na Ri - NOR - SUB 2,North,BAK,NMM,2019-09
-1061,CAB - Quang Uyen - NOR - SUB 2,North,CAB,NMM,2019-09
-1051,LAS - Chi Lang - NOR - SUB 2,North,LAS,NMM,2019-09
-1080,TTH - A Luoi - NOR - SUB 2,North,TTH,BTB,2019-09
-230,LAS - Lang Son - NOR,North,LAS,NMM,2017-11
-216,HN - Ha Dong - NOR - DP,HN,HN,HN,2017-11
-222,HN - Hoang Mai 1 - NOR - DP,HN,HN,HN,2017-11
-224,QNG - Quang Ngai - SOU,South,QNG,MTTN,2017-11
-234,GIL - Gia Lai - SOU,South,GIL,MTTN,2017-11
-226,KOT - Kon Tum - SOU,South,KOT,MTTN,2017-11
-228,QUA - Hoi An - SOU,South,QUA,MTTN,2017-11
-220,TUQ - Tuyen Quang - NOR,North,TUQ,NMM,2017-11
-218,LAC - Lai Chau - NOR,North,LAC,NMM,2017-11
-232,HAG - Ha Giang - NOR,North,HAG,NMM,2017-11
-1128,LAC - Sin Ho Thap - NOR - SUB 2,North,LAC,NMM,2020-01
-1241,TAN - Duong Minh Chau - SOU - SUB 2,South,TAN,DNB,2020-12
-1240,HCM - Binh Thanh 2 - SOU - DP,HCM,HCM,HCM,2020-12
-1238,DNG - NHS - SOU - DP,South,DNG,MTTN,2020-12
-1239,HCM - Tan Binh 2 - SOU - DP,HCM,HCM,HCM,2020-12
-74,HCM - Cu Chi - SOU - DP,HCM,HCM,HCM,2017-05
-103390,HCM - Binh Thanh 3 - SOU - DP,HCM,HCM,HCM,2021-08
-103391,HCM - Thu Duc 2 - SOU - DP,HCM,HCM,HCM,2021-08
-1233,HCM - Go Vap B - SOU - DP,HCM,HCM,HCM,2020-11
-1234,Share Liability Bag:HCM WH +Truck - DP,HCM,Sha,Others,2020-11
-1235,HCM - District 3 - SOU - DP,HCM,HCM,HCM,2020-11
-1230,HN - Dong Da 2 - NOR - DP,HN,HN,HN,2020-11
-1228,CAM - U Minh - SOU - SUB 2,South,CAM,MT,2020-11
-1237,TG - Cho Gao - SOU - SUB 2,South,TG,MT,2020-11
-1232,HN - Hai Ba Trung 2 - NOR - DP,HN,HN,HN,2020-11
-1231,HN - Thanh Xuan 2 - NOR - DP,HN,HN,HN,2020-11
-971,Test,North,Tes,Others,2019-04
-967,HN - Dan Phuong - NOR - SUB 2 - DP,HN,HN,HN,2019-04
-956,CAM - Tran Van Thoi - SOU - SUB 2,South,CAM,MT,2019-04
-963,HCM - Can Gio 2 - SOU - DP,HCM,HCM,HCM,2019-04
-959,HCM - Fahasa - SOU - DP,HCM,HCM,HCM,2019-04
-1001,QUA - Nong Son - SOU - SUB 2,South,QUA,MTTN,2019-08
-1002,HN - Thach That - NOR - SUB 2 - DP,HN,HN,HN,2019-08
-13,BD - Binh Duong - SOU,South,BD,DNB,2016-07
-1276,BIP - Bu Dop - SOU - SUB 2,South,BIP,DNB,2021-04
-1277,BIP - Phu Rieng - SOU - SUB 2,South,BIP,DNB,2021-04
-1275,TAN - Trang Bang - SOU - SUB 2,South,TAN,DNB,2021-04
-1262,BD - Bac Tan Uyen - SOU - SUB 2,South,BD,DNB,2021-03
-1274,CT - Cai Rang - SOU - SUB 2,South,CT,MT,2021-03
-1268,Freight Inhouse - Tay Nguyen,South,Fre,Others,2021-03
-1272,KIG - Tan Hiep - SOU - SUB 2,South,KIG,MT,2021-03
-1271,KIG - An Bien - SOU - SUB 2,South,KIG,MT,2021-03
-1266,VIL - Mang Thit - SOU - SUB 2,South,VIL,MT,2021-03
-1259,LAD - Bao Lam - SOU - SUB 2,South,LAD,MTTN,2021-03
-1270,ANG - An Phu - SOU - SUB 2,South,ANG,MT,2021-03
-1267,VIL - Tam Binh - SOU - SUB 2,South,VIL,MT,2021-03
-1261,BID - An Nhon - SOU - SUB 2,South,BID,MTTN,2021-03
-1269,ANG - Tan Chau - SOU - SUB 2,South,ANG,MT,2021-03
-1260,LAD - Da Lat 2 - SOU - DP,South,LAD,MTTN,2021-03
-1258,HCM - PUDO - Go Vap - SOU,HCM,HCM,HCM,2021-03
-1273,DOT - Hong Ngu - SOU - SUB 2,South,DOT,MT,2021-03
-104,BAG - Bac Giang - NOR,North,BAG,NMM,2017-08
-108,THN - Thai Nguyen - NOR,North,THN,NMM,2017-08
-100,NAD - Nam Dinh - NOR,North,NAD,DBSH,2017-08
-240,HCM - District 4 - SOU - DP,HCM,HCM,HCM,2017-12
-269,BAK - Bac Kan - NOR,North,BAK,NMM,2017-12
-242,HCM - Binh Chanh 1 - SOU - DP,HCM,HCM,HCM,2017-12
-259,HN - Bac Tu Liem - NOR - DP,HN,HN,HN,2017-12
-271,CAB - Cao Bang - NOR,North,CAB,NMM,2017-12
-255,HD - Chi Linh - NOR - SUB 2,North,HD,DBSH,2017-12
-243,BN - Luong Tai - NOR - SUB 2,North,BN,DBSH,2017-12
-238,HCM - Binh Chanh 2 - SOU - DP,HCM,HCM,HCM,2017-12
-245,HP - Vinh Bao - NOR - SUB 2,North,HP,DBSH,2017-12
-247,YEB - Yen Bai - NOR,North,YEB,NMM,2017-12
-249,LCA - Lao Cai - NOR,North,LCA,NMM,2017-12
-251,HY - Yen My - NOR - SUB 2,North,HY,DBSH,2017-12
-236,HCM - Phu Nhuan - SOU - DP,HCM,HCM,HCM,2017-12
-1194,KHH - Khanh Son - SOU - SUB 2,South,KHH,MTTN,2020-07
-1203,HCM - District 12 B - SOU - DP,HCM,HCM,HCM,2020-07
-1198,THN - Dai Tu - NOR - SUB 2,North,THN,NMM,2020-07
-1202,DAK - Krong Bong - SOU - SUB 2,South,DAK,MTTN,2020-07
-1195,BET - Giong Trom - SOU - SUB 2,South,BET,MT,2020-07
-1199,LAD - Dam Rong - SOU - SUB 2,South,LAD,MTTN,2020-07
-1201,DAK - Krong Ana - SOU - SUB 2,South,DAK,MTTN,2020-07
-1197,HN - Gia Lam - NOR - SUB 2 - DP,HN,HN,HN,2020-07
-1196,LA - Duc Hue - SOU - SUB 2,South,LA,DNB,2020-07
-773,NIT - Ninh Son - SOU - SUB 2,South,NIT,MTTN,2018-09
-781,BD - Nam Tan Uyen - SOU - SUB 2,South,BD,DNB,2018-09
-789,HN - Dong Anh - NOR - SUB 2 - DP,HN,HN,HN,2018-09
-839,HN - Chuong My - NOR - SUB 2 - DP,HN,HN,HN,2018-11
-827,HN - Son Tay - NOR - SUB 2 - DP,HN,HN,HN,2018-11
-831,HN - Thuong Tin - NOR - SUB 2 - DP,HN,HN,HN,2018-11
-823,HCM - Tan Binh 1 - SOU - DP,HCM,HCM,HCM,2018-11
-835,HN - My Duc - NOR - SUB 2 - DP,HN,HN,HN,2018-11
-1172,KIG - An Thoi - SOU - SUB 2,South,KIG,MT,2020-05
-1170,HOB - Da Bac - NOR - SUB 2,North,HOB,NMM,2020-05
-1179,DN - Long Binh Tan - SOU - SUB 2,South,DN,DNB,2020-05
-1184,LA - Vinh Hung - SOU - SUB 2,South,LA,DNB,2020-05
-1176,THB - Thai Thuy - NOR - SUB 2,North,THB,DBSH,2020-05
-1185,QUA - Duy Xuyen - SOU - SUB 2,South,QUA,MTTN,2020-05
-1186,HCM Fleet Liable,HCM,HCM,HCM,2020-05
-1171,KHH - Binh Ba - SOU - SUB 2,South,KHH,MTTN,2020-05
-1180,DN - Xuan Loc - SOU - SUB 2,South,DN,DNB,2020-05
-1177,DN - Thong Nhat - SOU - SUB 2,South,DN,DNB,2020-05
-1175,TG - Cai Be - SOU - SUB 2,South,TG,MT,2020-05
-1178,DN - Nhon Trach - SOU - SUB 2,South,DN,DNB,2020-05
-847,HN - Ba Dinh - NOR - DP,HN,HN,HN,2018-12
-859,HN - Hoai Duc - NOR - SUB 2 - DP,HN,HN,HN,2018-12
-867,LAS - Cao Loc - NOR - SUB 2,North,LAS,NMM,2018-12
-871,LAS - Loc Binh - NOR - SUB 2,North,LAS,NMM,2018-12
-855,HN - Thanh Xuan 1 - NOR - DP,HN,HN,HN,2018-12
-843,HN - Soc Son - NOR - SUB 2 - DP,HN,HN,HN,2018-12
-851,HN - Hai Ba Trung 1 - NOR - DP,HN,HN,HN,2018-12
-863,HN - Cau Giay 1 - NOR - DP,HN,HN,HN,2018-12
-1085,QUB - Minh Hoa - NOR - SUB 2,North,QUB,BTB,2019-10
-1086,NGA - Thanh Chuong - NOR - SUB 2,North,NGA,BTB,2019-10
-1082,CAB - Nguyen Binh - NOR - SUB 2,North,CAB,NMM,2019-10
-1090,Night Ops liable,HCM,Nig,Others,2019-10
-1083,HAT - Huong Son - NOR - SUB 2,North,HAT,BTB,2019-10
-1088,HD - Cam Giang - NOR - SUB 2,North,HD,DBSH,2019-10
-1089,THH - Lang Chanh - NOR - SUB 2,North,THH,BTB,2019-10
-1087,THH - Muong Lat - NOR - SUB 2,North,THH,BTB,2019-10
-1092,THN - Phu Binh - NOR - SUB 2,North,THN,NMM,2019-10
-1084,THH - Ngoc Lac - NOR - SUB 2,North,THH,BTB,2019-10
-1081,NGA - Thai Hoa - NOR - SUB 2,North,NGA,BTB,2019-10
-307,VT - Long Dien - SOU - SUB 2,South,VT,DNB,2018-02
-309,DAK - Dak Lak - SOU,South,DAK,MTTN,2018-02
-311,LAD - Lam Dong - SOU,South,LAD,MTTN,2018-02
-315,LA - Kien Tuong - SOU - SUB 2,South,LA,DNB,2018-02
-313,DOT - Tam Nong - SOU - SUB 2,South,DOT,MT,2018-02
-317,DAN - Dak Nong - SOU,South,DAN,MTTN,2018-02
-1116,NGA - Que Phong - NOR - SUB 2,North,NGA,BTB,2019-12
-1125,PTH - Cam Khe - NOR - SUB 2,North,PTH,NMM,2019-12
-1127,HD - Ninh Giang - NOR - SUB 2,North,HD,DBSH,2019-12
-1126,HOB - Luong Son - NOR - SUB 2,North,HOB,NMM,2019-12
-1115,NGA - Anh Son - NOR - SUB 2,North,NGA,BTB,2019-12
-1117,Freight Inhouse - Ha Noi,HN,Fre,Others,2019-12
-96,SOT - Soc Trang - SOU,South,SOT,MT,2017-07
-88,DOT - Dong Thap - SOU,South,DOT,MT,2017-07
-92,TRV - Tra Vinh - SOU,South,TRV,MT,2017-07
-989,BIT - Phu Quy - SOU - SUB 2,South,BIT,DNB,2019-05
-986,PHY - Song Hinh - SOU - SUB 2,South,PHY,MTTN,2019-05
-975,QUB - Bo Trach - NOR - SUB 2,North,QUB,BTB,2019-05
-978,KIG - Tien Hai - SOU - SUB 2,South,KIG,MT,2019-05
-985,QNG - Ly Son - SOU - SUB 2,South,QNG,MTTN,2019-05
-976,KIG - Hon Nghe - SOU - SUB 2,South,KIG,MT,2019-05
-983,BID - Vinh Thanh - SOU - SUB 2,South,BID,MTTN,2019-05
-977,KIG - Kien Hai - SOU - SUB 2,South,KIG,MT,2019-05
-990,KHH - Ninh Hoa - SOU - SUB 2,South,KHH,MTTN,2019-05
-984,BID - An Lao - SOU - SUB 2,South,BID,MTTN,2019-05
-987,KHH - Van Ninh - SOU - SUB 2,South,KHH,MTTN,2019-05
-972,CAM - Nam Can - SOU - SUB 2,South,CAM,MT,2019-05
-988,KIG - Phu Quoc - SOU - SUB 2,South,KIG,MT,2019-05
-979,ANG - Tri Ton - SOU - SUB 2,South,ANG,MT,2019-05
-982,BID - Hoai An - SOU - SUB 2,South,BID,MTTN,2019-05
-1210,HCM - Nha Be - SOU - DP,HCM,HCM,HCM,2020-08
-1214,HN - Me Linh - NOR - SUB 2 - DP,HN,HN,HN,2020-08
-1211,HN - Hoang Mai 2 - NOR - DP,HN,HN,HN,2020-08
-1209,HN - Cau Giay 2 - NOR - DP,HN,HN,HN,2020-08
-1204,HN - Hoan Kiem - NOR - DP,HN,HN,HN,2020-08
-1213,VT - Ba Ria - SOU - SUB 2,South,VT,DNB,2020-08
-1208,NGA - Nghi Loc - NOR - SUB 2,North,NGA,BTB,2020-08
-1212,BIT - Da Mi - SOU - SUB 2,South,BIT,DNB,2020-08
-1187,NGA - Cua Lo - NOR - SUB 2,North,NGA,BTB,2020-06
-1192,QUN - Co To Van Don - NOR - SUB 2,North,QUN,DBSH,2020-06
-1193,DN - Cam My - SOU - SUB 2,South,DN,DNB,2020-06
-165,TAN - Tay Ninh - SOU,South,TAN,DNB,2017-10
-173,HAT - Holding - Covid,North,HAT,BTB,2017-10
-181,NGA - Holding - Covid,North,NGA,BTB,2017-10
-201,HCM - Thu Duc 1 - SOU - DP,HCM,HCM,HCM,2017-10
-211,BIT - Binh Thuan - SOU,South,BIT,DNB,2017-10
-191,HCM - District 9 B - SOU - DP,HCM,HCM,HCM,2017-10
-209,HCM - Hoc Mon - SOU - DP,HCM,HCM,HCM,2017-10
-177,DIB - Dien Bien - NOR,North,DIB,NMM,2017-10
-175,SOL - Son La - NOR,North,SOL,NMM,2017-10
-161,HAN - Ha Nam - NOR,North,HAN,DBSH,2017-10
-195,HN - Quoc Oai - NOR - SUB 2 - DP,HN,HN,HN,2017-10
-189,HCM - Fleet - SOU,HCM,HCM,HCM,2017-10
-183,HD - Holding - Covid,North,HD,DBSH,2017-10
-185,THH - Holding - Covid,North,THH,BTB,2017-10
-169,BN - Holding - Covid,North,BN,DBSH,2017-10
-199,HCM - Tan Phu 1 - SOU - DP,HCM,HCM,HCM,2017-10
-213,QUA - Tam Ky - SOU,South,QUA,MTTN,2017-10
-179,HP - Holding - Covid,North,HP,DBSH,2017-10
-205,HCM - QBT 1 - SOU - DP,HCM,HCM,HCM,2017-10
-163,HOB - Hoa Binh - NOR,North,HOB,NMM,2017-10
-203,HCM - District 8 - SOU - DP,HCM,HCM,HCM,2017-10
-171,HCM - District 6 - SOU - DP,HCM,HCM,HCM,2017-10
-674,QUA - Hiep Duc - SOU - SUB 2,South,QUA,MTTN,2018-07
-690,NGA - Hoang Mai - NOR - SUB 2,North,NGA,BTB,2018-07
-696,BIT - Ham Thuan Bac - SOU - SUB 2,South,BIT,DNB,2018-07
-711,HAG - Vi Xuyen - NOR - SUB 2,North,HAG,NMM,2018-07
-732,Freight - HN DP Liable,HN,Fre,Others,2018-07
-670,PHY - Dong Hoa - SOU - SUB 2,South,PHY,MTTN,2018-07
-682,LAD - Da Teh - SOU - SUB 2,South,LAD,MTTN,2018-07
-738,Test,North,Tes,Others,2018-07
-741,QNG - Son Ha - SOU - SUB 2,South,QNG,MTTN,2018-07
-702,VT - Xuyen Moc - SOU - SUB 2,South,VT,DNB,2018-07
-708,KIG - Ha Tien - SOU - SUB 2,South,KIG,MT,2018-07
-686,QNG - Ba To - SOU - SUB 2,South,QNG,MTTN,2018-07
-699,BIT - Duc Linh - SOU - SUB 2,South,BIT,DNB,2018-07
-666,TRV - Duyen Hai - SOU - SUB 2,South,TRV,MT,2018-07
-687,TTH - Phu Loc - NOR - SUB 2,North,TTH,BTB,2018-07
-678,LAD - Lam Ha - SOU - SUB 2,South,LAD,MTTN,2018-07
-693,BIT - Ham Thuan Nam - SOU - SUB 2,South,BIT,DNB,2018-07
-729,Test,North,Tes,Others,2018-07
-705,KIG - Hon Dat - SOU - SUB 2,South,KIG,MT,2018-07
-717,QUA - Dai Loc - SOU - SUB 2,South,QUA,MTTN,2018-07
-662,KIG - U Minh Thuong - SOU - SUB 2,South,KIG,MT,2018-07
-714,QUA - Nam Giang - SOU - SUB 2,South,QUA,MTTN,2018-07
-1103,SOL - Van Ho - NOR - SUB 2,North,SOL,NMM,2019-11
-1107,NGA - Quy Hop - NOR - SUB 2,North,NGA,BTB,2019-11
-1106,NGA - Yen Thanh - NOR - SUB 2,North,NGA,BTB,2019-11
-1111,North Holding Covid,North,Nor,Others,2019-11
-1112,OVERCAP - CE,HCM,OVE,Others,2019-11
-1105,YEB - Tran Yen - NOR - SUB 2,North,YEB,NMM,2019-11
-1104,YEB - Tram Tau - NOR - SUB 2,North,YEB,NMM,2019-11
-62,THB - Thai Binh - NOR,North,THB,DBSH,2017-04
-58,VIL - Vinh Long - SOU,South,VIL,MT,2017-04
-51,TG - Tien Giang - SOU,South,TG,MT,2016-12
-48,LA - Long An - SOU,South,LA,DNB,2016-12
-952,GIL - Dak Doa - SOU - SUB 2,South,GIL,MTTN,2019-03
-948,GIL - Ia Grai - SOU - SUB 2,South,GIL,MTTN,2019-03
-912,GIL - Ayun Pa - SOU - SUB 2,South,GIL,MTTN,2019-03
-920,QUA - Tien Phuoc - SOU - SUB 2,South,QUA,MTTN,2019-03
-924,QNG - Tra Bong - SOU - SUB 2,South,QNG,MTTN,2019-03
-928,DAN - Krong No - SOU - SUB 2,South,DAN,MTTN,2019-03
-916,DAK - Ea Sup - SOU - SUB 2,South,DAK,MTTN,2019-03
-936,HN - TSS - NOR - DP,HN,HN,HN,2019-03
-940,SOT - Thanh Tri - SOU - SUB 2,South,SOT,MT,2019-03
-944,HCM - Can Gio 1 - SOU - DP,HCM,HCM,HCM,2019-03
-932,LAD - Di Linh - SOU - SUB 2,South,LAD,MTTN,2019-03
-902,KOT - Dak Glei - SOU - SUB 2,South,KOT,MTTN,2019-02
-906,KOT - Kon Plong - SOU - SUB 2,South,KOT,MTTN,2019-02
-898,GIL - Chu Prong - SOU - SUB 2,South,GIL,MTTN,2019-02
-910,KOT - Sa Thay - SOU - SUB 2,South,KOT,MTTN,2019-02
-894,GIL - Duc Co - SOU - SUB 2,South,GIL,MTTN,2019-02
-1218,SOT - Ke Sach - SOU - SUB 2,South,SOT,MT,2020-09
-1222,NAD - Nghia Hung - NOR - SUB 2,North,NAD,DBSH,2020-09
-1224,PTH - Tam Nong - NOR - SUB 2,North,PTH,NMM,2020-09
-1216,HD - Gia Loc - NOR - SUB 2,North,HD,DBSH,2020-09
-1223,VIP - Phuc Yen - NOR - SUB 2,North,VIP,DBSH,2020-09
-1219,BIP - Chon Thanh - SOU - SUB 2,South,BIP,DNB,2020-09
-1221,NAD - Vu Ban - NOR - SUB 2,North,NAD,DBSH,2020-09
-103276,LA - Can Duoc - SOU - SUB 2,South,LA,DNB,2021-06
-103232,BD - Bau Bang 2 - SOU - SUB 2,South,BD,DNB,2021-06
-103266,DOT - Thap Muoi - SOU - SUB 2,South,DOT,MT,2021-06
-103267,HGI - Cay Duong - SOU - SUB 2,South,HGI,MT,2021-06
-1242,VIP - Yen Lac - NOR - SUB 2,North,VIP,DBSH,2021-01
-1250,KHH - Dien Khanh - SOU - SUB 2,South,KHH,MTTN,2021-01
-1249,KHH - Nam Nha Trang - SOU - DP,South,KHH,MTTN,2021-01
-1251,QUN - Ba Che - NOR - SUB 2,North,QUN,DBSH,2021-01
-1248,NGA - Dien Chau - NOR - SUB 2,North,NGA,BTB,2021-01
-1244,THH - Quang Xuong - NOR - SUB 2,North,THH,BTB,2021-01
-1243,QUN - Bai Chay - NOR - SUB 2,North,QUN,DBSH,2021-01
-1252,BAG - Viet Yen - NOR - SUB 2,North,BAG,NMM,2021-01
-1246,Freght 3PL - interzone,HCM,Fre,Others,2021-01
-103195,THH - Quang Xuong - NOR - SUB 2 (Sai),North,THH,BTB,2021-05
-103212,PTH - Test,North,PTH,NMM,2021-05
-103209,KIG - Hon Thom - SOU - SUB 2,South,KIG,MT,2021-05
-103186,VT - Thang Nhi - SOU - SUB 2,South,VT,DNB,2021-05
-103199,Test hub,South,Tes,Others,2021-05
-103223,CT - Binh Thuy - SOU - SUB 2,South,CT,MT,2021-05
-103196,CT - Co Do - SOU - SUB 2,South,CT,MT,2021-05
-103224,BD - Thu Dau Mot - SOU,South,BD,DNB,2021-05
-103202,BAG - Holding - Covid,North,BAG,NMM,2021-05
-538,GIL - Chu Se - SOU - SUB 2,South,GIL,MTTN,2018-06
-566,QUB - Le Thuy - NOR - SUB 2,North,QUB,BTB,2018-06
-598,TUQ - Chiem Hoa - NOR - SUB 2,North,TUQ,NMM,2018-06
-507,KIG - Giong Rieng - SOU - SUB 2,South,KIG,MT,2018-06
-530,BID - Phu Cat - SOU - SUB 2,South,BID,MTTN,2018-06
-546,BIP - Loc Ninh - SOU - SUB 2,South,BIP,DNB,2018-06
-650,YEB - Nghia Lo - NOR - SUB 2,North,YEB,NMM,2018-06
-534,PHY - Tuy An - SOU - SUB 2,South,PHY,MTTN,2018-06
-554,DN - Vinh Cuu - SOU - SUB 2,South,DN,DNB,2018-06
-610,HAT - Nghi Xuan - NOR - SUB 2,North,HAT,BTB,2018-06
-586,DIB - Tua Chua - NOR - SUB 2,North,DIB,NMM,2018-06
-574,SOL - Mai Son - NOR - SUB 2,North,SOL,NMM,2018-06
-618,QUT - Hai Lang - NOR - SUB 2,North,QUT,BTB,2018-06
-630,LCA - Van Ban - NOR - SUB 2,North,LCA,NMM,2018-06
-578,SOL - Bac Yen - NOR - SUB 2,North,SOL,NMM,2018-06
-582,SOL - Muong La - NOR - SUB 2,North,SOL,NMM,2018-06
-590,DIB - Dien Bien Dong - NOR - SUB 2,North,DIB,NMM,2018-06
-642,LCA - Bat Xat - NOR - SUB 2,North,LCA,NMM,2018-06
-511,BET - Binh Dai - SOU - SUB 2,South,BET,MT,2018-06
-518,HN - Main Hub Fleet - NOR,HN,HN,HN,2018-06
-614,QUT - Huong Hoa - NOR - SUB 2,North,QUT,BTB,2018-06
-634,LCA - Bac Ha - NOR - SUB 2,North,LCA,NMM,2018-06
-646,LCA - Muong Khuong - NOR - SUB 2,North,LCA,NMM,2018-06
-499,NIB - Kim Son - NOR - SUB 2,North,NIB,DBSH,2018-06
-526,BAG - Luc Nam - NOR - SUB 2,North,BAG,NMM,2018-06
-562,QUB - Quang Trach - NOR - SUB 2,North,QUB,BTB,2018-06
-622,LCA - Sapa - NOR - SUB 2,North,LCA,NMM,2018-06
-626,LCA - Bao Yen - NOR - SUB 2,North,LCA,NMM,2018-06
-503,DOT - Sa Dec - SOU - SUB 2,South,DOT,MT,2018-06
-606,HAT - Ky Anh - NOR - SUB 2,North,HAT,BTB,2018-06
-654,YEB - Van Yen - NOR - SUB 2,North,YEB,NMM,2018-06
-658,YEB - Van Chan - NOR - SUB 2,North,YEB,NMM,2018-06
-638,QUT - Vinh Linh - NOR - SUB 2,North,QUT,BTB,2018-06
-550,VT - Phu My - SOU - SUB 2,South,VT,DNB,2018-06
-594,TUQ - Son Duong - NOR - SUB 2,North,TUQ,NMM,2018-06
-558,THH - Hoang Hoa - NOR - SUB 2,North,THH,BTB,2018-06
-602,TUQ - Yen Son - NOR - SUB 2,North,TUQ,NMM,2018-06
-522,CT - Thot Not - SOU - SUB 2,South,CT,MT,2018-06
-570,SOL - Song Ma - NOR - SUB 2,North,SOL,NMM,2018-06
-461,BD - Di An - SOU - SUB 2,South,BD,DNB,2018-05
-467,LAS - Binh Gia - NOR - SUB 2,North,LAS,NMM,2018-05
-473,LAC - Than Uyen - NOR - SUB 2,North,LAC,NMM,2018-05
-488,DIB - Muong Nhe - NOR - SUB 2,North,DIB,NMM,2018-05
-470,LAS - Van Lang - NOR - SUB 2,North,LAS,NMM,2018-05
-482,HAG - Bac Quang - NOR - SUB 2,North,HAG,NMM,2018-05
-479,HAG - Bac Me - NOR - SUB 2,North,HAG,NMM,2018-05
-495,THN - Dong Hy - NOR - SUB 2,North,THN,NMM,2018-05
-463,LA - Can Giuoc - SOU - SUB 2,South,LA,DNB,2018-05
-476,LAC - Tan Uyen - NOR - SUB 2,North,LAC,NMM,2018-05
-466,HN - Dong Da 1 - NOR - DP,HN,HN,HN,2018-05
-485,HAG - Quan Ba - NOR - SUB 2,North,HAG,NMM,2018-05
-1140,LCA - Si Ma Cai - NOR - SUB 2,North,LCA,NMM,2020-02
-1139,HY - My Hao - NOR - SUB 2,North,HY,DBSH,2020-02
-1138,HAN - Ly Nhan - NOR - SUB 2,North,HAN,DBSH,2020-02
-1130,BAK - Pac Nam - NOR - SUB 2,North,BAK,NMM,2020-02
-1137,HP - Kien Thuy - NOR - SUB 2,North,HP,DBSH,2020-02
-1142,HCM - QuQo - SOU - DP,HCM,HCM,HCM,2020-02
-1131,NGA - Con Cuong - NOR - SUB 2,North,NGA,BTB,2020-02
-1143,KOT - Ia Hdrai - SOU - SUB 2,South,KOT,MTTN,2020-02
-1141,HOB - Mai Chau - NOR - SUB 2,North,HOB,NMM,2020-02
-1132,NGA - Tuong Duong - NOR - SUB 2,North,NGA,BTB,2020-02
-1144,KOT - Dak To - SOU - SUB 2,South,KOT,MTTN,2020-02
-999,DAK - MDrak - SOU - SUB 2,South,DAK,MTTN,2019-07
-116,HCM - District 10 - SOU - DP,HCM,HCM,HCM,2017-09
-140,QUN - Ha Long - NOR,North,QUN,DBSH,2017-09
-141,THH - Thanh Hoa - NOR,North,THH,BTB,2017-09
-143,NIB - Ninh Binh - NOR,North,NIB,DBSH,2017-09
-125,HCM - District 2 - SOU - DP,HCM,HCM,HCM,2017-09
-145,BIP - Binh Phuoc - SOU,South,BIP,DNB,2017-09
-120,HCM - District 9 A - SOU - DP,HCM,HCM,HCM,2017-09
-130,HCM - Go Vap A - SOU - DP,HCM,HCM,HCM,2017-09
-149,VIP - Vinh Phuc - NOR,North,VIP,DBSH,2017-09
-151,PTH - Phu Tho - NOR,North,PTH,NMM,2017-09
-112,HCM - Binh Thanh 1 - SOU - DP,HCM,HCM,HCM,2017-09
-153,KIG - Kien Giang - SOU,South,KIG,MT,2017-09
-147,HCM - District 7 - SOU - DP,HCM,HCM,HCM,2017-09
-155,HCM - District 12 A - SOU - DP,HCM,HCM,HCM,2017-09
-138,ANG - An Giang - SOU,South,ANG,MT,2017-09
-1256,ANG - Binh Hoa - SOU - SUB 2,South,ANG,MT,2021-02
-1257,LAD - Don Duong - SOU - SUB 2,South,LAD,MTTN,2021-02
-1253,THN - Thai Nguyen 2 - NOR,North,THN,NMM,2021-02
-1255,THN - Vo Nhai - NOR - SUB 2,North,THN,NMM,2021-02
-756,TAN - Tan Chau - SOU - SUB 2,South,TAN,DNB,2018-08
-753,SOT - Tran De - SOU - SUB 2,South,SOT,MT,2018-08
-744,DAN - Dak Glong - SOU - SUB 2,South,DAN,MTTN,2018-08
-750,ANG - Phu Tan - SOU - SUB 2,South,ANG,MT,2018-08
-771,CAM - Dam Doi - SOU - SUB 2,South,CAM,MT,2018-08
-759,DN - Trang Bom - SOU - SUB 2,South,DN,DNB,2018-08
-747,TG - Tan Phuoc - SOU - SUB 2,South,TG,MT,2018-08
-437,DAK - Ea Kar - SOU - SUB 2,South,DAK,MTTN,2018-04
-441,LAD - Duc Trong - SOU - SUB 2,South,LAD,MTTN,2018-04
-421,HOB - Lac Thuy - NOR - SUB 2,North,HOB,NMM,2018-04
-425,LCA - Bao Thang - NOR - SUB 2,North,LCA,NMM,2018-04
-431,QUA - Bac Tra My - SOU - SUB 2,South,QUA,MTTN,2018-04
-429,DAN - Dak Mil - SOU - SUB 2,South,DAN,MTTN,2018-04
-445,THH - Tho Xuan - NOR - SUB 2,North,THH,BTB,2018-04
-423,SOL - Moc Chau - NOR - SUB 2,North,SOL,NMM,2018-04
-427,QUA - Que Son - SOU - SUB 2,South,QUA,MTTN,2018-04
-449,THH - Bim Son - NOR - SUB 2,North,THH,BTB,2018-04
-433,GIL - An Khe - SOU - SUB 2,South,GIL,MTTN,2018-04
-439,DAK - Buon Don - SOU - SUB 2,South,DAK,MTTN,2018-04
-435,HOB - Tan Lac - NOR - SUB 2,North,HOB,NMM,2018-04
-443,HD - Kim Thanh - NOR - SUB 2,North,HD,DBSH,2018-04
-447,TG - Go Cong - SOU - SUB 2,South,TG,MT,2018-04
-417,TAN - Tan Bien - SOU - SUB 2,South,TAN,DNB,2018-04
-419,TAN - Go Dau - SOU - SUB 2,South,TAN,DNB,2018-04
-451,THH - Tinh Gia - NOR - SUB 2,North,THH,BTB,2018-04
-39,CT - CTH - SOU - DP,South,CT,MT,2016-11
-32,DNG - DAD - SOU - DP,South,DNG,MTTN,2016-11
-42,BN - Bac Ninh - NOR,North,BN,DBSH,2016-11
-45,HY - Hung Yen - NOR,North,HY,DBSH,2016-11
-26,HD - Hai Duong - NOR,North,HD,DBSH,2016-10
-28,HP - Hai Phong - NOR,North,HP,DBSH,2016-10
-22,VT - Vung Tau - SOU,South,VT,DNB,2016-10
-20,DN - Dong Nai - SOU,South,DN,DNB,2016-10
-887,DNG - Hoa Vang - SOU - SUB 2,South,DNG,MTTN,2019-01
-875,KIG - Kien Luong - SOU - SUB 2,South,KIG,MT,2019-01
-891,DAK - Ea Hleo - SOU - SUB 2,South,DAK,MTTN,2019-01
+hub_id,hub_name,hub_region,province_code,hub_sector,area,created_month
+103232,BD - Bau Bang 2 - SOU - SUB 2,South,BD,DNB,Non-Metro,2021-06
+103276,LA - Can Duoc - SOU - SUB 2,South,LA,DNB,Non-Metro,2021-06
+103266,DOT - Thap Muoi - SOU - SUB 2,South,DOT,MT,Non-Metro,2021-06
+103267,HGI - Cay Duong - SOU - SUB 2,South,HGI,MT,Non-Metro,2021-06
+199,HCM - Tan Phu 1 - SOU - DP,HCM,HCM,HCM,Metro,2017-10
+213,QUA - Tam Ky - SOU,South,QUA,MTTN,Non-Metro,2017-10
+179,HP - Holding - Covid,North,HP,DBSH,Non-Metro,2017-10
+205,HCM - QBT 1 - SOU - DP,HCM,HCM,HCM,Metro,2017-10
+201,HCM - Thu Duc 1 - SOU - DP,HCM,HCM,HCM,Metro,2017-10
+211,BIT - Binh Thuan - SOU,South,BIT,DNB,Non-Metro,2017-10
+203,HCM - District 8 - SOU - DP,HCM,HCM,HCM,Metro,2017-10
+161,HAN - Ha Nam - NOR,North,HAN,DBSH,Non-Metro,2017-10
+195,HN - Quoc Oai - NOR - SUB 2 - DP,HN,HN,HN,Metro,2017-10
+177,DIB - Dien Bien - NOR,North,DIB,NMM,Non-Metro,2017-10
+171,HCM - District 6 - SOU - DP,HCM,HCM,HCM,Metro,2017-10
+175,SOL - Son La - NOR,North,SOL,NMM,Non-Metro,2017-10
+165,TAN - Tay Ninh - SOU,South,TAN,DNB,Non-Metro,2017-10
+173,HAT - Holding - Covid,North,HAT,BTB,Non-Metro,2017-10
+181,NGA - Holding - Covid,North,NGA,BTB,Non-Metro,2017-10
+189,HCM - Fleet - SOU,HCM,HCM,HCM,Metro,2017-10
+183,HD - Holding - Covid,North,HD,DBSH,Non-Metro,2017-10
+185,THH - Holding - Covid,North,THH,BTB,Non-Metro,2017-10
+169,BN - Holding - Covid,North,BN,DBSH,Non-Metro,2017-10
+163,HOB - Hoa Binh - NOR,North,HOB,NMM,Non-Metro,2017-10
+191,HCM - District 9 B - SOU - DP,HCM,HCM,HCM,Metro,2017-10
+209,HCM - Hoc Mon - SOU - DP,HCM,HCM,HCM,Metro,2017-10
+361,BAG - Hiep Hoa - NOR - SUB 2,North,BAG,NMM,Non-Metro,2018-03
+371,DN - Dinh Quan - SOU - SUB 2,South,DN,DNB,Non-Metro,2018-03
+395,TRV - Tieu Can - SOU - SUB 2,South,TRV,MT,Non-Metro,2018-03
+397,BIP - Phuoc Long - SOU - SUB 2,South,BIP,DNB,Non-Metro,2018-03
+339,VIP - Lap Thach - NOR - SUB 2,North,VIP,DBSH,Non-Metro,2018-03
+345,THN - Pho Yen - NOR - SUB 2,North,THN,NMM,Non-Metro,2018-03
+347,THN - Phu Luong - NOR - SUB 2,North,THN,NMM,Non-Metro,2018-03
+367,CAM - Thoi Binh - SOU - SUB 2,South,CAM,MT,Non-Metro,2018-03
+381,QNG - Binh Son - SOU - SUB 2,South,QNG,MTTN,Non-Metro,2018-03
+411,QUA - Nui Thanh - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2018-03
+319,BID - Quy Nhon - SOU,South,BID,MTTN,Non-Metro,2018-03
+321,PHY - Tuy Hoa - SOU,South,PHY,MTTN,Non-Metro,2018-03
+333,QUN - Tien Yen - NOR - SUB 2,North,QUN,DBSH,Non-Metro,2018-03
+365,DIB - Muong Cha - NOR - SUB 2,North,DIB,NMM,Non-Metro,2018-03
+387,NIT - Ninh Phuoc - SOU - SUB 2,South,NIT,MTTN,Non-Metro,2018-03
+363,NIB - Gia Vien - NOR - SUB 2,North,NIB,DBSH,Non-Metro,2018-03
+383,KOT - Ngoc Hoi - SOU - SUB 2,South,KOT,MTTN,Non-Metro,2018-03
+415,LA - Duc Hoa - SOU - SUB 2,South,LA,DNB,Non-Metro,2018-03
+331,QUN - Mong Cai - NOR,North,QUN,DBSH,Non-Metro,2018-03
+355,THB - Hung Ha - NOR - SUB 2,North,THB,DBSH,Non-Metro,2018-03
+393,VIL - Tra On - SOU - SUB 2,South,VIL,MT,Non-Metro,2018-03
+401,BIP - Binh Long - SOU - SUB 2,South,BIP,DNB,Non-Metro,2018-03
+323,KHH - NTR - SOU - DP,South,KHH,MTTN,Non-Metro,2018-03
+329,BAG - Luc Ngan - NOR - SUB 2,North,BAG,NMM,Non-Metro,2018-03
+325,TG - Cai Lay - SOU - SUB 2,South,TG,MT,Non-Metro,2018-03
+335,QUN - Dong Trieu - NOR - SUB 2,North,QUN,DBSH,Non-Metro,2018-03
+375,DAK - Lak - SOU - SUB 2,South,DAK,MTTN,Non-Metro,2018-03
+399,BIP - Bu Dang - SOU - SUB 2,South,BIP,DNB,Non-Metro,2018-03
+341,PTH - Thanh Ba - NOR - SUB 2,North,PTH,NMM,Non-Metro,2018-03
+351,BAL - Gia Rai - SOU - SUB 2,South,BAL,MT,Non-Metro,2018-03
+359,DIB - Tuan Giao - NOR - SUB 2,North,DIB,NMM,Non-Metro,2018-03
+373,BET - Mo Cay Nam - SOU - SUB 2,South,BET,MT,Non-Metro,2018-03
+385,LAD - Bao Loc - SOU - SUB 2,South,LAD,MTTN,Non-Metro,2018-03
+403,BIT - Tuy Phong - SOU - SUB 2,South,BIT,DNB,Non-Metro,2018-03
+337,QUN - Hai Ha - NOR - SUB 2,North,QUN,DBSH,Non-Metro,2018-03
+353,BAL - Hong Dan - SOU - SUB 2,South,BAL,MT,Non-Metro,2018-03
+379,QNG - Mo Duc - SOU - SUB 2,South,QNG,MTTN,Non-Metro,2018-03
+357,PTH - Thanh Son - NOR - SUB 2,North,PTH,NMM,Non-Metro,2018-03
+389,HGI - Long My - SOU - SUB 2,South,HGI,MT,Non-Metro,2018-03
+391,HGI - Phung Hiep - SOU - SUB 2,South,HGI,MT,Non-Metro,2018-03
+327,NIT - Phan Rang - SOU,South,NIT,MTTN,Non-Metro,2018-03
+343,NAD - Hai Hau - NOR - SUB 2,North,NAD,DBSH,Non-Metro,2018-03
+407,BIT - La Gi - SOU - SUB 2,South,BIT,DNB,Non-Metro,2018-03
+413,BAG - Son Dong - NOR - SUB 2,North,BAG,NMM,Non-Metro,2018-03
+405,BIT - Tanh Linh - SOU - SUB 2,South,BIT,DNB,Non-Metro,2018-03
+349,ANG - Chau Doc - SOU - SUB 2,South,ANG,MT,Non-Metro,2018-03
+369,CAM - Cai Nuoc - SOU - SUB 2,South,CAM,MT,Non-Metro,2018-03
+377,DAK - Buon Ho - SOU - SUB 2,South,DAK,MTTN,Non-Metro,2018-03
+409,KHH - Cam Ranh - SOU - SUB 2,South,KHH,MTTN,Non-Metro,2018-03
+220,TUQ - Tuyen Quang - NOR,North,TUQ,NMM,Non-Metro,2017-11
+224,QNG - Quang Ngai - SOU,South,QNG,MTTN,Non-Metro,2017-11
+234,GIL - Gia Lai - SOU,South,GIL,MTTN,Non-Metro,2017-11
+230,LAS - Lang Son - NOR,North,LAS,NMM,Non-Metro,2017-11
+226,KOT - Kon Tum - SOU,South,KOT,MTTN,Non-Metro,2017-11
+228,QUA - Hoi An - SOU,South,QUA,MTTN,Non-Metro,2017-11
+216,HN - Ha Dong - NOR - DP,HN,HN,HN,Metro,2017-11
+222,HN - Hoang Mai 1 - NOR - DP,HN,HN,HN,Metro,2017-11
+218,LAC - Lai Chau - NOR,North,LAC,NMM,Non-Metro,2017-11
+232,HAG - Ha Giang - NOR,North,HAG,NMM,Non-Metro,2017-11
+1008,BN - Yen Phong - NOR - SUB 2,North,BN,DBSH,Non-Metro,2019-09
+1038,SOL - Sop Cop - NOR - SUB 2,North,SOL,NMM,Non-Metro,2019-09
+1053,LAS - Dinh Lap - NOR - SUB 2,North,LAS,NMM,Non-Metro,2019-09
+1054,LAS - Huu Lung - NOR - SUB 2,North,LAS,NMM,Non-Metro,2019-09
+1064,NGA - Quy Chau - NOR - SUB 2,North,NGA,BTB,Non-Metro,2019-09
+1030,THH - Ba Thuoc - NOR - SUB 2,North,THH,BTB,Non-Metro,2019-09
+1033,BAK - Ba Be - NOR - SUB 2,North,BAK,NMM,Non-Metro,2019-09
+1037,HAG - Meo Vac - NOR - SUB 2,North,HAG,NMM,Non-Metro,2019-09
+1039,HAG - Dong Van - NOR - SUB 2,North,HAG,NMM,Non-Metro,2019-09
+1047,NGA - Tan Ky - NOR - SUB 2,North,NGA,BTB,Non-Metro,2019-09
+1067,CAB - Phuc Hoa - NOR - SUB 2,North,CAB,NMM,Non-Metro,2019-09
+1012,HP - Le Chan - NOR - SUB 2,North,HP,DBSH,Non-Metro,2019-09
+1029,BAK - Cho Moi - NOR - SUB 2,North,BAK,NMM,Non-Metro,2019-09
+1049,LAS - Bac Son - NOR - SUB 2,North,LAS,NMM,Non-Metro,2019-09
+1055,LAS - Trang Dinh - NOR - SUB 2,North,LAS,NMM,Non-Metro,2019-09
+1018,YEB - Yen Binh - NOR - SUB 2,North,YEB,NMM,Non-Metro,2019-09
+1046,LAC - Phong Tho - NOR - SUB 2,North,LAC,NMM,Non-Metro,2019-09
+1060,CAB - Thach An - NOR - SUB 2,North,CAB,NMM,Non-Metro,2019-09
+1065,CAB - Bao Lac - NOR - SUB 2,North,CAB,NMM,Non-Metro,2019-09
+1076,LA - Thanh Hoa - SOU - SUB 2,South,LA,DNB,Non-Metro,2019-09
+1010,HP - An Duong - NOR - SUB 2,North,HP,DBSH,Non-Metro,2019-09
+1027,BAK - Na Ri - NOR - SUB 2,North,BAK,NMM,Non-Metro,2019-09
+1061,CAB - Quang Uyen - NOR - SUB 2,North,CAB,NMM,Non-Metro,2019-09
+1078,QUA - Phuoc Son - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2019-09
+1051,LAS - Chi Lang - NOR - SUB 2,North,LAS,NMM,Non-Metro,2019-09
+1080,TTH - A Luoi - NOR - SUB 2,North,TTH,BTB,Non-Metro,2019-09
+1003,BET - Cho Lach - SOU - SUB 2,South,BET,MT,Non-Metro,2019-09
+1016,YEB - Mu Cang Chai - NOR - SUB 2,North,YEB,NMM,Non-Metro,2019-09
+1022,THH - Nhu Thanh - NOR - SUB 2,North,THH,BTB,Non-Metro,2019-09
+1023,THH - Thach Thanh - NOR - SUB 2,North,THH,BTB,Non-Metro,2019-09
+1040,SOL - Yen Chau - NOR - SUB 2,North,SOL,NMM,Non-Metro,2019-09
+1079,TTH - Phong Dien - NOR - SUB 2,North,TTH,BTB,Non-Metro,2019-09
+1004,DNG - Lien Chieu - SOU - DP,South,DNG,MTTN,Non-Metro,2019-09
+1009,BN - Tu Son - NOR - SUB 2,North,BN,DBSH,Non-Metro,2019-09
+1019,TUQ - Na Hang - NOR - SUB 2,North,TUQ,NMM,Non-Metro,2019-09
+1025,THH - Quan Hoa - NOR - SUB 2,North,THH,BTB,Non-Metro,2019-09
+1056,LAS - Van Quan - NOR - SUB 2,North,LAS,NMM,Non-Metro,2019-09
+1062,CAB - Trung Khanh - NOR - SUB 2,North,CAB,NMM,Non-Metro,2019-09
+1071,BD - Phu Giao - SOU - SUB 2,South,BD,DNB,Non-Metro,2019-09
+1072,BD - Dau Tieng - SOU - SUB 2,South,BD,DNB,Non-Metro,2019-09
+1005,BN - Que Vo - NOR - SUB 2,North,BN,DBSH,Non-Metro,2019-09
+1017,YEB - Luc Yen - NOR - SUB 2,North,YEB,NMM,Non-Metro,2019-09
+1021,TUQ - Lam Binh - NOR - SUB 2,North,TUQ,NMM,Non-Metro,2019-09
+1028,THH - Quan Son - NOR - SUB 2,North,THH,BTB,Non-Metro,2019-09
+1058,CAB - Ha Quang - NOR - SUB 2,North,CAB,NMM,Non-Metro,2019-09
+1059,CAB - Thong Nong - NOR - SUB 2,North,CAB,NMM,Non-Metro,2019-09
+1032,SOL - Quynh Nhai - NOR - SUB 2,North,SOL,NMM,Non-Metro,2019-09
+1034,SOL - Thuan Chau - NOR - SUB 2,North,SOL,NMM,Non-Metro,2019-09
+1043,HAG - Quang Binh - NOR - SUB 2,North,HAG,NMM,Non-Metro,2019-09
+1048,LAC - Sin Ho - NOR - SUB 2,North,LAC,NMM,Non-Metro,2019-09
+1013,HP - Thuy Nguyen - NOR - SUB 2,North,HP,DBSH,Non-Metro,2019-09
+1031,BAK - Cho Don - NOR - SUB 2,North,BAK,NMM,Non-Metro,2019-09
+1035,HAG - Yen Minh - NOR - SUB 2,North,HAG,NMM,Non-Metro,2019-09
+1052,LAC - Muong Te - NOR - SUB 2,North,LAC,NMM,Non-Metro,2019-09
+1066,CAB - Bao Lam - NOR - SUB 2,North,CAB,NMM,Non-Metro,2019-09
+1024,THH - Thuong Xuan - NOR - SUB 2,North,THH,BTB,Non-Metro,2019-09
+1045,HAT - Huong Khe - NOR - SUB 2,North,HAT,BTB,Non-Metro,2019-09
+1057,CAB - Tra Linh - NOR - SUB 2,North,CAB,NMM,Non-Metro,2019-09
+1074,CT - Phong Dien - SOU - SUB 2,South,CT,MT,Non-Metro,2019-09
+1075,LA - Thu Thua - SOU - SUB 2,South,LA,DNB,Non-Metro,2019-09
+1026,BAK - Ngan Son - NOR - SUB 2,North,BAK,NMM,Non-Metro,2019-09
+1041,HAG - Hoang Su Phi - NOR - SUB 2,North,HAG,NMM,Non-Metro,2019-09
+1042,HAG - Xin Man - NOR - SUB 2,North,HAG,NMM,Non-Metro,2019-09
+1044,HAT - Duc Tho - NOR - SUB 2,North,HAT,BTB,Non-Metro,2019-09
+1020,TUQ - Ham Yen - NOR - SUB 2,North,TUQ,NMM,Non-Metro,2019-09
+1036,SOL - Phu Yen - NOR - SUB 2,North,SOL,NMM,Non-Metro,2019-09
+1063,CAB - Ha Lang - NOR - SUB 2,North,CAB,NMM,Non-Metro,2019-09
+1070,BD - Thuan Giao - SOU - SUB 2,South,BD,DNB,Non-Metro,2019-09
+1050,LAC - Nam Nhun - NOR - SUB 2,North,LAC,NMM,Non-Metro,2019-09
+151,PTH - Phu Tho - NOR,North,PTH,NMM,Non-Metro,2017-09
+112,HCM - Binh Thanh 1 - SOU - DP,HCM,HCM,HCM,Metro,2017-09
+153,KIG - Kien Giang - SOU,South,KIG,MT,Non-Metro,2017-09
+141,THH - Thanh Hoa - NOR,North,THH,BTB,Non-Metro,2017-09
+143,NIB - Ninh Binh - NOR,North,NIB,DBSH,Non-Metro,2017-09
+147,HCM - District 7 - SOU - DP,HCM,HCM,HCM,Metro,2017-09
+155,HCM - District 12 A - SOU - DP,HCM,HCM,HCM,Metro,2017-09
+138,ANG - An Giang - SOU,South,ANG,MT,Non-Metro,2017-09
+145,BIP - Binh Phuoc - SOU,South,BIP,DNB,Non-Metro,2017-09
+130,HCM - Go Vap A - SOU - DP,HCM,HCM,HCM,Metro,2017-09
+149,VIP - Vinh Phuc - NOR,North,VIP,DBSH,Non-Metro,2017-09
+120,HCM - District 9 A - SOU - DP,HCM,HCM,HCM,Metro,2017-09
+116,HCM - District 10 - SOU - DP,HCM,HCM,HCM,Metro,2017-09
+140,QUN - Ha Long - NOR,North,QUN,DBSH,Non-Metro,2017-09
+125,HCM - District 2 - SOU - DP,HCM,HCM,HCM,Metro,2017-09
+999,DAK - MDrak - SOU - SUB 2,South,DAK,MTTN,Non-Metro,2019-07
+13,BD - Binh Duong - SOU,South,BD,DNB,Non-Metro,2016-07
+92,TRV - Tra Vinh - SOU,South,TRV,MT,Non-Metro,2017-07
+96,SOT - Soc Trang - SOU,South,SOT,MT,Non-Metro,2017-07
+88,DOT - Dong Thap - SOU,South,DOT,MT,Non-Metro,2017-07
+1149,QUA - Dong Giang - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2020-03
+1152,VIL - Binh Minh - SOU - SUB 2,South,VIL,MT,Non-Metro,2020-03
+1159,DN - Phu Thanh - SOU - SUB 2,South,DN,DNB,Non-Metro,2020-03
+1148,QUA - Tay Giang - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2020-03
+1154,KHH - Cam Lam - SOU - SUB 2,South,KHH,MTTN,Non-Metro,2020-03
+1146,BID - Van Canh - SOU - SUB 2,South,BID,MTTN,Non-Metro,2020-03
+1147,KHH - Khanh Vinh - SOU - SUB 2,South,KHH,MTTN,Non-Metro,2020-03
+1155,PHY - Song Cau - SOU - SUB 2,South,PHY,MTTN,Non-Metro,2020-03
+1156,VT - Chau Duc - SOU - SUB 2,South,VT,DNB,Non-Metro,2020-03
+1158,THB - Tien Hai - NOR - SUB 2,North,THB,DBSH,Non-Metro,2020-03
+1218,SOT - Ke Sach - SOU - SUB 2,South,SOT,MT,Non-Metro,2020-09
+1222,NAD - Nghia Hung - NOR - SUB 2,North,NAD,DBSH,Non-Metro,2020-09
+1224,PTH - Tam Nong - NOR - SUB 2,North,PTH,NMM,Non-Metro,2020-09
+1216,HD - Gia Loc - NOR - SUB 2,North,HD,DBSH,Non-Metro,2020-09
+1223,VIP - Phuc Yen - NOR - SUB 2,North,VIP,DBSH,Non-Metro,2020-09
+1219,BIP - Chon Thanh - SOU - SUB 2,South,BIP,DNB,Non-Metro,2020-09
+1221,NAD - Vu Ban - NOR - SUB 2,North,NAD,DBSH,Non-Metro,2020-09
+74,HCM - Cu Chi - SOU - DP,HCM,HCM,HCM,Metro,2017-05
+103391,HCM - Thu Duc 2 - SOU - DP,HCM,HCM,HCM,Metro,2021-08
+103390,HCM - Binh Thanh 3 - SOU - DP,HCM,HCM,HCM,Metro,2021-08
+744,DAN - Dak Glong - SOU - SUB 2,South,DAN,MTTN,Non-Metro,2018-08
+750,ANG - Phu Tan - SOU - SUB 2,South,ANG,MT,Non-Metro,2018-08
+771,CAM - Dam Doi - SOU - SUB 2,South,CAM,MT,Non-Metro,2018-08
+753,SOT - Tran De - SOU - SUB 2,South,SOT,MT,Non-Metro,2018-08
+747,TG - Tan Phuoc - SOU - SUB 2,South,TG,MT,Non-Metro,2018-08
+759,DN - Trang Bom - SOU - SUB 2,South,DN,DNB,Non-Metro,2018-08
+756,TAN - Tan Chau - SOU - SUB 2,South,TAN,DNB,Non-Metro,2018-08
+1244,THH - Quang Xuong - NOR - SUB 2,North,THH,BTB,Non-Metro,2021-01
+1243,QUN - Bai Chay - NOR - SUB 2,North,QUN,DBSH,Non-Metro,2021-01
+1252,BAG - Viet Yen - NOR - SUB 2,North,BAG,NMM,Non-Metro,2021-01
+1246,Freght 3PL - interzone,HCM,Fre,Others,Metro,2021-01
+1250,KHH - Dien Khanh - SOU - SUB 2,South,KHH,MTTN,Non-Metro,2021-01
+1249,KHH - Nam Nha Trang - SOU - DP,South,KHH,MTTN,Non-Metro,2021-01
+1251,QUN - Ba Che - NOR - SUB 2,North,QUN,DBSH,Non-Metro,2021-01
+1248,NGA - Dien Chau - NOR - SUB 2,North,NGA,BTB,Non-Metro,2021-01
+1242,VIP - Yen Lac - NOR - SUB 2,North,VIP,DBSH,Non-Metro,2021-01
+1276,BIP - Bu Dop - SOU - SUB 2,South,BIP,DNB,Non-Metro,2021-04
+1277,BIP - Phu Rieng - SOU - SUB 2,South,BIP,DNB,Non-Metro,2021-04
+1275,TAN - Trang Bang - SOU - SUB 2,South,TAN,DNB,Non-Metro,2021-04
+847,HN - Ba Dinh - NOR - DP,HN,HN,HN,Metro,2018-12
+859,HN - Hoai Duc - NOR - SUB 2 - DP,HN,HN,HN,Metro,2018-12
+851,HN - Hai Ba Trung 1 - NOR - DP,HN,HN,HN,Metro,2018-12
+863,HN - Cau Giay 1 - NOR - DP,HN,HN,HN,Metro,2018-12
+843,HN - Soc Son - NOR - SUB 2 - DP,HN,HN,HN,Metro,2018-12
+855,HN - Thanh Xuan 1 - NOR - DP,HN,HN,HN,Metro,2018-12
+867,LAS - Cao Loc - NOR - SUB 2,North,LAS,NMM,Non-Metro,2018-12
+871,LAS - Loc Binh - NOR - SUB 2,North,LAS,NMM,Non-Metro,2018-12
+103186,VT - Thang Nhi - SOU - SUB 2,South,VT,DNB,Non-Metro,2021-05
+103199,Test hub,South,Tes,Others,Non-Metro,2021-05
+103223,CT - Binh Thuy - SOU - SUB 2,South,CT,MT,Non-Metro,2021-05
+103196,CT - Co Do - SOU - SUB 2,South,CT,MT,Non-Metro,2021-05
+103224,BD - Thu Dau Mot - SOU,South,BD,DNB,Non-Metro,2021-05
+103202,BAG - Holding - Covid,North,BAG,NMM,Non-Metro,2021-05
+103195,THH - Quang Xuong - NOR - SUB 2 (Sai),North,THH,BTB,Non-Metro,2021-05
+103212,PTH - Test,North,PTH,NMM,Non-Metro,2021-05
+103209,KIG - Hon Thom - SOU - SUB 2,South,KIG,MT,Non-Metro,2021-05
+1170,HOB - Da Bac - NOR - SUB 2,North,HOB,NMM,Non-Metro,2020-05
+1179,DN - Long Binh Tan - SOU - SUB 2,South,DN,DNB,Non-Metro,2020-05
+1184,LA - Vinh Hung - SOU - SUB 2,South,LA,DNB,Non-Metro,2020-05
+1177,DN - Thong Nhat - SOU - SUB 2,South,DN,DNB,Non-Metro,2020-05
+1178,DN - Nhon Trach - SOU - SUB 2,South,DN,DNB,Non-Metro,2020-05
+1186,HCM Fleet Liable,HCM,HCM,HCM,Metro,2020-05
+1172,KIG - An Thoi - SOU - SUB 2,South,KIG,MT,Non-Metro,2020-05
+1171,KHH - Binh Ba - SOU - SUB 2,South,KHH,MTTN,Non-Metro,2020-05
+1180,DN - Xuan Loc - SOU - SUB 2,South,DN,DNB,Non-Metro,2020-05
+1175,TG - Cai Be - SOU - SUB 2,South,TG,MT,Non-Metro,2020-05
+1176,THB - Thai Thuy - NOR - SUB 2,North,THB,DBSH,Non-Metro,2020-05
+1185,QUA - Duy Xuyen - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2020-05
+1209,HN - Cau Giay 2 - NOR - DP,HN,HN,HN,Metro,2020-08
+1210,HCM - Nha Be - SOU - DP,HCM,HCM,HCM,Metro,2020-08
+1204,HN - Hoan Kiem - NOR - DP,HN,HN,HN,Metro,2020-08
+1213,VT - Ba Ria - SOU - SUB 2,South,VT,DNB,Non-Metro,2020-08
+1211,HN - Hoang Mai 2 - NOR - DP,HN,HN,HN,Metro,2020-08
+1208,NGA - Nghi Loc - NOR - SUB 2,North,NGA,BTB,Non-Metro,2020-08
+1212,BIT - Da Mi - SOU - SUB 2,South,BIT,DNB,Non-Metro,2020-08
+1214,HN - Me Linh - NOR - SUB 2 - DP,HN,HN,HN,Metro,2020-08
+479,HAG - Bac Me - NOR - SUB 2,North,HAG,NMM,Non-Metro,2018-05
+463,LA - Can Giuoc - SOU - SUB 2,South,LA,DNB,Non-Metro,2018-05
+473,LAC - Than Uyen - NOR - SUB 2,North,LAC,NMM,Non-Metro,2018-05
+488,DIB - Muong Nhe - NOR - SUB 2,North,DIB,NMM,Non-Metro,2018-05
+470,LAS - Van Lang - NOR - SUB 2,North,LAS,NMM,Non-Metro,2018-05
+482,HAG - Bac Quang - NOR - SUB 2,North,HAG,NMM,Non-Metro,2018-05
+466,HN - Dong Da 1 - NOR - DP,HN,HN,HN,Metro,2018-05
+485,HAG - Quan Ba - NOR - SUB 2,North,HAG,NMM,Non-Metro,2018-05
+461,BD - Di An - SOU - SUB 2,South,BD,DNB,Non-Metro,2018-05
+495,THN - Dong Hy - NOR - SUB 2,North,THN,NMM,Non-Metro,2018-05
+467,LAS - Binh Gia - NOR - SUB 2,North,LAS,NMM,Non-Metro,2018-05
+476,LAC - Tan Uyen - NOR - SUB 2,North,LAC,NMM,Non-Metro,2018-05
+32,DNG - DAD - SOU - DP,South,DNG,MTTN,Non-Metro,2016-11
+42,BN - Bac Ninh - NOR,North,BN,DBSH,Non-Metro,2016-11
+45,HY - Hung Yen - NOR,North,HY,DBSH,Non-Metro,2016-11
+39,CT - CTH - SOU - DP,South,CT,MT,Non-Metro,2016-11
+277,BD - Ben Cat - SOU - SUB 2,South,BD,DNB,Non-Metro,2018-01
+279,HAT - Ha Tinh - NOR,North,HAT,BTB,Non-Metro,2018-01
+297,QUT - Quang Tri - NOR,North,QUT,BTB,Non-Metro,2018-01
+305,CAM - Ca Mau - SOU,South,CAM,MT,Non-Metro,2018-01
+275,DN - Long Thanh - SOU - SUB 2,South,DN,DNB,Non-Metro,2018-01
+281,NGA - Nghe An - NOR,North,NGA,BTB,Non-Metro,2018-01
+289,CT - O Mon - SOU - SUB 2,South,CT,MT,Non-Metro,2018-01
+283,QUN - Cam Pha - NOR,North,QUN,DBSH,Non-Metro,2018-01
+285,QUN - Uong Bi - NOR,North,QUN,DBSH,Non-Metro,2018-01
+291,HGI - Hau Giang - SOU,South,HGI,MT,Non-Metro,2018-01
+287,DN - Long Khanh - SOU - SUB 2,South,DN,DNB,Non-Metro,2018-01
+301,TTH - Thua Thien Hue - NOR,North,TTH,BTB,Non-Metro,2018-01
+303,BAL - Bac Lieu - SOU,South,BAL,MT,Non-Metro,2018-01
+295,HN - Nam Tu Liem - NOR - DP,HN,HN,HN,Metro,2018-01
+299,QUB - Quang Binh - NOR,North,QUB,BTB,Non-Metro,2018-01
+1237,TG - Cho Gao - SOU - SUB 2,South,TG,MT,Non-Metro,2020-11
+1230,HN - Dong Da 2 - NOR - DP,HN,HN,HN,Metro,2020-11
+1228,CAM - U Minh - SOU - SUB 2,South,CAM,MT,Non-Metro,2020-11
+1233,HCM - Go Vap B - SOU - DP,HCM,HCM,HCM,Metro,2020-11
+1232,HN - Hai Ba Trung 2 - NOR - DP,HN,HN,HN,Metro,2020-11
+1234,Share Liability Bag:HCM WH +Truck - DP,HCM,Sha,Others,Metro,2020-11
+1235,HCM - District 3 - SOU - DP,HCM,HCM,HCM,Metro,2020-11
+1231,HN - Thanh Xuan 2 - NOR - DP,HN,HN,HN,Metro,2020-11
+1103,SOL - Van Ho - NOR - SUB 2,North,SOL,NMM,Non-Metro,2019-11
+1111,North Holding Covid,North,Nor,Others,Non-Metro,2019-11
+1112,OVERCAP - CE,HCM,OVE,Others,Metro,2019-11
+1105,YEB - Tran Yen - NOR - SUB 2,North,YEB,NMM,Non-Metro,2019-11
+1106,NGA - Yen Thanh - NOR - SUB 2,North,NGA,BTB,Non-Metro,2019-11
+1107,NGA - Quy Hop - NOR - SUB 2,North,NGA,BTB,Non-Metro,2019-11
+1104,YEB - Tram Tau - NOR - SUB 2,North,YEB,NMM,Non-Metro,2019-11
+100,NAD - Nam Dinh - NOR,North,NAD,DBSH,Non-Metro,2017-08
+108,THN - Thai Nguyen - NOR,North,THN,NMM,Non-Metro,2017-08
+104,BAG - Bac Giang - NOR,North,BAG,NMM,Non-Metro,2017-08
+1192,QUN - Co To Van Don - NOR - SUB 2,North,QUN,DBSH,Non-Metro,2020-06
+1193,DN - Cam My - SOU - SUB 2,South,DN,DNB,Non-Metro,2020-06
+1187,NGA - Cua Lo - NOR - SUB 2,North,NGA,BTB,Non-Metro,2020-06
+1240,HCM - Binh Thanh 2 - SOU - DP,HCM,HCM,HCM,Metro,2020-12
+1238,DNG - NHS - SOU - DP,South,DNG,MTTN,Non-Metro,2020-12
+1239,HCM - Tan Binh 2 - SOU - DP,HCM,HCM,HCM,Metro,2020-12
+1241,TAN - Duong Minh Chau - SOU - SUB 2,South,TAN,DNB,Non-Metro,2020-12
+1260,LAD - Da Lat 2 - SOU - DP,South,LAD,MTTN,Non-Metro,2021-03
+1258,HCM - PUDO - Go Vap - SOU,HCM,HCM,HCM,Metro,2021-03
+1268,Freight Inhouse - Tay Nguyen,South,Fre,Others,Non-Metro,2021-03
+1272,KIG - Tan Hiep - SOU - SUB 2,South,KIG,MT,Non-Metro,2021-03
+1271,KIG - An Bien - SOU - SUB 2,South,KIG,MT,Non-Metro,2021-03
+1266,VIL - Mang Thit - SOU - SUB 2,South,VIL,MT,Non-Metro,2021-03
+1259,LAD - Bao Lam - SOU - SUB 2,South,LAD,MTTN,Non-Metro,2021-03
+1267,VIL - Tam Binh - SOU - SUB 2,South,VIL,MT,Non-Metro,2021-03
+1261,BID - An Nhon - SOU - SUB 2,South,BID,MTTN,Non-Metro,2021-03
+1269,ANG - Tan Chau - SOU - SUB 2,South,ANG,MT,Non-Metro,2021-03
+1262,BD - Bac Tan Uyen - SOU - SUB 2,South,BD,DNB,Non-Metro,2021-03
+1270,ANG - An Phu - SOU - SUB 2,South,ANG,MT,Non-Metro,2021-03
+1274,CT - Cai Rang - SOU - SUB 2,South,CT,MT,Non-Metro,2021-03
+1273,DOT - Hong Ngu - SOU - SUB 2,South,DOT,MT,Non-Metro,2021-03
+1088,HD - Cam Giang - NOR - SUB 2,North,HD,DBSH,Non-Metro,2019-10
+1089,THH - Lang Chanh - NOR - SUB 2,North,THH,BTB,Non-Metro,2019-10
+1087,THH - Muong Lat - NOR - SUB 2,North,THH,BTB,Non-Metro,2019-10
+1092,THN - Phu Binh - NOR - SUB 2,North,THN,NMM,Non-Metro,2019-10
+1084,THH - Ngoc Lac - NOR - SUB 2,North,THH,BTB,Non-Metro,2019-10
+1081,NGA - Thai Hoa - NOR - SUB 2,North,NGA,BTB,Non-Metro,2019-10
+1083,HAT - Huong Son - NOR - SUB 2,North,HAT,BTB,Non-Metro,2019-10
+1085,QUB - Minh Hoa - NOR - SUB 2,North,QUB,BTB,Non-Metro,2019-10
+1086,NGA - Thanh Chuong - NOR - SUB 2,North,NGA,BTB,Non-Metro,2019-10
+1082,CAB - Nguyen Binh - NOR - SUB 2,North,CAB,NMM,Non-Metro,2019-10
+1090,Night Ops liable,HCM,Nig,Others,Metro,2019-10
+827,HN - Son Tay - NOR - SUB 2 - DP,HN,HN,HN,Metro,2018-11
+831,HN - Thuong Tin - NOR - SUB 2 - DP,HN,HN,HN,Metro,2018-11
+823,HCM - Tan Binh 1 - SOU - DP,HCM,HCM,HCM,Metro,2018-11
+835,HN - My Duc - NOR - SUB 2 - DP,HN,HN,HN,Metro,2018-11
+839,HN - Chuong My - NOR - SUB 2 - DP,HN,HN,HN,Metro,2018-11
+313,DOT - Tam Nong - SOU - SUB 2,South,DOT,MT,Non-Metro,2018-02
+311,LAD - Lam Dong - SOU,South,LAD,MTTN,Non-Metro,2018-02
+317,DAN - Dak Nong - SOU,South,DAN,MTTN,Non-Metro,2018-02
+315,LA - Kien Tuong - SOU - SUB 2,South,LA,DNB,Non-Metro,2018-02
+307,VT - Long Dien - SOU - SUB 2,South,VT,DNB,Non-Metro,2018-02
+309,DAK - Dak Lak - SOU,South,DAK,MTTN,Non-Metro,2018-02
+1163,QUA - Nam Giang 2 - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2020-04
+1162,QUA - Nam Tra My - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2020-04
+1165,NGA - Ky Son - NOR - SUB 2,North,NGA,BTB,Non-Metro,2020-04
+1166,HCM Hub Liable,HCM,HCM,HCM,Metro,2020-04
+1160,VT - Con Dao - SOU - SUB 2,South,VT,DNB,Non-Metro,2020-04
+920,QUA - Tien Phuoc - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2019-03
+924,QNG - Tra Bong - SOU - SUB 2,South,QNG,MTTN,Non-Metro,2019-03
+928,DAN - Krong No - SOU - SUB 2,South,DAN,MTTN,Non-Metro,2019-03
+916,DAK - Ea Sup - SOU - SUB 2,South,DAK,MTTN,Non-Metro,2019-03
+944,HCM - Can Gio 1 - SOU - DP,HCM,HCM,HCM,Metro,2019-03
+932,LAD - Di Linh - SOU - SUB 2,South,LAD,MTTN,Non-Metro,2019-03
+912,GIL - Ayun Pa - SOU - SUB 2,South,GIL,MTTN,Non-Metro,2019-03
+936,HN - TSS - NOR - DP,HN,HN,HN,Metro,2019-03
+952,GIL - Dak Doa - SOU - SUB 2,South,GIL,MTTN,Non-Metro,2019-03
+940,SOT - Thanh Tri - SOU - SUB 2,South,SOT,MT,Non-Metro,2019-03
+948,GIL - Ia Grai - SOU - SUB 2,South,GIL,MTTN,Non-Metro,2019-03
+20,DN - Dong Nai - SOU,South,DN,DNB,Non-Metro,2016-10
+22,VT - Vung Tau - SOU,South,VT,DNB,Non-Metro,2016-10
+26,HD - Hai Duong - NOR,North,HD,DBSH,Non-Metro,2016-10
+28,HP - Hai Phong - NOR,North,HP,DBSH,Non-Metro,2016-10
+891,DAK - Ea Hleo - SOU - SUB 2,South,DAK,MTTN,Non-Metro,2019-01
+887,DNG - Hoa Vang - SOU - SUB 2,South,DNG,MTTN,Non-Metro,2019-01
+875,KIG - Kien Luong - SOU - SUB 2,South,KIG,MT,Non-Metro,2019-01
+1128,LAC - Sin Ho Thap - NOR - SUB 2,North,LAC,NMM,Non-Metro,2020-01
+421,HOB - Lac Thuy - NOR - SUB 2,North,HOB,NMM,Non-Metro,2018-04
+425,LCA - Bao Thang - NOR - SUB 2,North,LCA,NMM,Non-Metro,2018-04
+431,QUA - Bac Tra My - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2018-04
+435,HOB - Tan Lac - NOR - SUB 2,North,HOB,NMM,Non-Metro,2018-04
+443,HD - Kim Thanh - NOR - SUB 2,North,HD,DBSH,Non-Metro,2018-04
+447,TG - Go Cong - SOU - SUB 2,South,TG,MT,Non-Metro,2018-04
+429,DAN - Dak Mil - SOU - SUB 2,South,DAN,MTTN,Non-Metro,2018-04
+445,THH - Tho Xuan - NOR - SUB 2,North,THH,BTB,Non-Metro,2018-04
+423,SOL - Moc Chau - NOR - SUB 2,North,SOL,NMM,Non-Metro,2018-04
+427,QUA - Que Son - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2018-04
+449,THH - Bim Son - NOR - SUB 2,North,THH,BTB,Non-Metro,2018-04
+433,GIL - An Khe - SOU - SUB 2,South,GIL,MTTN,Non-Metro,2018-04
+451,THH - Tinh Gia - NOR - SUB 2,North,THH,BTB,Non-Metro,2018-04
+437,DAK - Ea Kar - SOU - SUB 2,South,DAK,MTTN,Non-Metro,2018-04
+441,LAD - Duc Trong - SOU - SUB 2,South,LAD,MTTN,Non-Metro,2018-04
+439,DAK - Buon Don - SOU - SUB 2,South,DAK,MTTN,Non-Metro,2018-04
+417,TAN - Tan Bien - SOU - SUB 2,South,TAN,DNB,Non-Metro,2018-04
+419,TAN - Go Dau - SOU - SUB 2,South,TAN,DNB,Non-Metro,2018-04
+51,TG - Tien Giang - SOU,South,TG,MT,Non-Metro,2016-12
+48,LA - Long An - SOU,South,LA,DNB,Non-Metro,2016-12
+906,KOT - Kon Plong - SOU - SUB 2,South,KOT,MTTN,Non-Metro,2019-02
+898,GIL - Chu Prong - SOU - SUB 2,South,GIL,MTTN,Non-Metro,2019-02
+910,KOT - Sa Thay - SOU - SUB 2,South,KOT,MTTN,Non-Metro,2019-02
+894,GIL - Duc Co - SOU - SUB 2,South,GIL,MTTN,Non-Metro,2019-02
+902,KOT - Dak Glei - SOU - SUB 2,South,KOT,MTTN,Non-Metro,2019-02
+990,KHH - Ninh Hoa - SOU - SUB 2,South,KHH,MTTN,Non-Metro,2019-05
+984,BID - An Lao - SOU - SUB 2,South,BID,MTTN,Non-Metro,2019-05
+987,KHH - Van Ninh - SOU - SUB 2,South,KHH,MTTN,Non-Metro,2019-05
+972,CAM - Nam Can - SOU - SUB 2,South,CAM,MT,Non-Metro,2019-05
+988,KIG - Phu Quoc - SOU - SUB 2,South,KIG,MT,Non-Metro,2019-05
+977,KIG - Kien Hai - SOU - SUB 2,South,KIG,MT,Non-Metro,2019-05
+982,BID - Hoai An - SOU - SUB 2,South,BID,MTTN,Non-Metro,2019-05
+989,BIT - Phu Quy - SOU - SUB 2,South,BIT,DNB,Non-Metro,2019-05
+986,PHY - Song Hinh - SOU - SUB 2,South,PHY,MTTN,Non-Metro,2019-05
+975,QUB - Bo Trach - NOR - SUB 2,North,QUB,BTB,Non-Metro,2019-05
+978,KIG - Tien Hai - SOU - SUB 2,South,KIG,MT,Non-Metro,2019-05
+985,QNG - Ly Son - SOU - SUB 2,South,QNG,MTTN,Non-Metro,2019-05
+976,KIG - Hon Nghe - SOU - SUB 2,South,KIG,MT,Non-Metro,2019-05
+983,BID - Vinh Thanh - SOU - SUB 2,South,BID,MTTN,Non-Metro,2019-05
+979,ANG - Tri Ton - SOU - SUB 2,South,ANG,MT,Non-Metro,2019-05
+103321,BIT - Bac Binh - SOU - SUB 2,South,BIT,DNB,Non-Metro,2021-07
+103322,HCM - QBT 2 - SOU - DP,HCM,HCM,HCM,Metro,2021-07
+103334,SOU EXP-COVID,South,SOU,Others,Non-Metro,2021-07
+1140,LCA - Si Ma Cai - NOR - SUB 2,North,LCA,NMM,Non-Metro,2020-02
+1131,NGA - Con Cuong - NOR - SUB 2,North,NGA,BTB,Non-Metro,2020-02
+1143,KOT - Ia Hdrai - SOU - SUB 2,South,KOT,MTTN,Non-Metro,2020-02
+1132,NGA - Tuong Duong - NOR - SUB 2,North,NGA,BTB,Non-Metro,2020-02
+1144,KOT - Dak To - SOU - SUB 2,South,KOT,MTTN,Non-Metro,2020-02
+1130,BAK - Pac Nam - NOR - SUB 2,North,BAK,NMM,Non-Metro,2020-02
+1138,HAN - Ly Nhan - NOR - SUB 2,North,HAN,DBSH,Non-Metro,2020-02
+1139,HY - My Hao - NOR - SUB 2,North,HY,DBSH,Non-Metro,2020-02
+1137,HP - Kien Thuy - NOR - SUB 2,North,HP,DBSH,Non-Metro,2020-02
+1142,HCM - QuQo - SOU - DP,HCM,HCM,HCM,Metro,2020-02
+1141,HOB - Mai Chau - NOR - SUB 2,North,HOB,NMM,Non-Metro,2020-02
+511,BET - Binh Dai - SOU - SUB 2,South,BET,MT,Non-Metro,2018-06
+518,HN - Main Hub Fleet - NOR,HN,HN,HN,Metro,2018-06
+614,QUT - Huong Hoa - NOR - SUB 2,North,QUT,BTB,Non-Metro,2018-06
+634,LCA - Bac Ha - NOR - SUB 2,North,LCA,NMM,Non-Metro,2018-06
+646,LCA - Muong Khuong - NOR - SUB 2,North,LCA,NMM,Non-Metro,2018-06
+499,NIB - Kim Son - NOR - SUB 2,North,NIB,DBSH,Non-Metro,2018-06
+526,BAG - Luc Nam - NOR - SUB 2,North,BAG,NMM,Non-Metro,2018-06
+562,QUB - Quang Trach - NOR - SUB 2,North,QUB,BTB,Non-Metro,2018-06
+622,LCA - Sapa - NOR - SUB 2,North,LCA,NMM,Non-Metro,2018-06
+626,LCA - Bao Yen - NOR - SUB 2,North,LCA,NMM,Non-Metro,2018-06
+503,DOT - Sa Dec - SOU - SUB 2,South,DOT,MT,Non-Metro,2018-06
+606,HAT - Ky Anh - NOR - SUB 2,North,HAT,BTB,Non-Metro,2018-06
+654,YEB - Van Yen - NOR - SUB 2,North,YEB,NMM,Non-Metro,2018-06
+658,YEB - Van Chan - NOR - SUB 2,North,YEB,NMM,Non-Metro,2018-06
+638,QUT - Vinh Linh - NOR - SUB 2,North,QUT,BTB,Non-Metro,2018-06
+586,DIB - Tua Chua - NOR - SUB 2,North,DIB,NMM,Non-Metro,2018-06
+578,SOL - Bac Yen - NOR - SUB 2,North,SOL,NMM,Non-Metro,2018-06
+582,SOL - Muong La - NOR - SUB 2,North,SOL,NMM,Non-Metro,2018-06
+590,DIB - Dien Bien Dong - NOR - SUB 2,North,DIB,NMM,Non-Metro,2018-06
+538,GIL - Chu Se - SOU - SUB 2,South,GIL,MTTN,Non-Metro,2018-06
+566,QUB - Le Thuy - NOR - SUB 2,North,QUB,BTB,Non-Metro,2018-06
+598,TUQ - Chiem Hoa - NOR - SUB 2,North,TUQ,NMM,Non-Metro,2018-06
+507,KIG - Giong Rieng - SOU - SUB 2,South,KIG,MT,Non-Metro,2018-06
+530,BID - Phu Cat - SOU - SUB 2,South,BID,MTTN,Non-Metro,2018-06
+546,BIP - Loc Ninh - SOU - SUB 2,South,BIP,DNB,Non-Metro,2018-06
+650,YEB - Nghia Lo - NOR - SUB 2,North,YEB,NMM,Non-Metro,2018-06
+642,LCA - Bat Xat - NOR - SUB 2,North,LCA,NMM,Non-Metro,2018-06
+534,PHY - Tuy An - SOU - SUB 2,South,PHY,MTTN,Non-Metro,2018-06
+554,DN - Vinh Cuu - SOU - SUB 2,South,DN,DNB,Non-Metro,2018-06
+610,HAT - Nghi Xuan - NOR - SUB 2,North,HAT,BTB,Non-Metro,2018-06
+550,VT - Phu My - SOU - SUB 2,South,VT,DNB,Non-Metro,2018-06
+594,TUQ - Son Duong - NOR - SUB 2,North,TUQ,NMM,Non-Metro,2018-06
+558,THH - Hoang Hoa - NOR - SUB 2,North,THH,BTB,Non-Metro,2018-06
+602,TUQ - Yen Son - NOR - SUB 2,North,TUQ,NMM,Non-Metro,2018-06
+522,CT - Thot Not - SOU - SUB 2,South,CT,MT,Non-Metro,2018-06
+570,SOL - Song Ma - NOR - SUB 2,North,SOL,NMM,Non-Metro,2018-06
+574,SOL - Mai Son - NOR - SUB 2,North,SOL,NMM,Non-Metro,2018-06
+618,QUT - Hai Lang - NOR - SUB 2,North,QUT,BTB,Non-Metro,2018-06
+630,LCA - Van Ban - NOR - SUB 2,North,LCA,NMM,Non-Metro,2018-06
+1256,ANG - Binh Hoa - SOU - SUB 2,South,ANG,MT,Non-Metro,2021-02
+1257,LAD - Don Duong - SOU - SUB 2,South,LAD,MTTN,Non-Metro,2021-02
+1253,THN - Thai Nguyen 2 - NOR,North,THN,NMM,Non-Metro,2021-02
+1255,THN - Vo Nhai - NOR - SUB 2,North,THN,NMM,Non-Metro,2021-02
+789,HN - Dong Anh - NOR - SUB 2 - DP,HN,HN,HN,Metro,2018-09
+781,BD - Nam Tan Uyen - SOU - SUB 2,South,BD,DNB,Non-Metro,2018-09
+773,NIT - Ninh Son - SOU - SUB 2,South,NIT,MTTN,Non-Metro,2018-09
+993,PTH - Phu Ninh - NOR - SUB 2,North,PTH,NMM,Non-Metro,2019-06
+994,DAN - Tuy Duc - SOU - SUB 2,South,DAN,MTTN,Non-Metro,2019-06
+996,HN - Thanh Tri - NOR - SUB 2 - DP,HN,HN,HN,Metro,2019-06
+997,NGA - Nam Dan - NOR - SUB 2,North,NGA,BTB,Non-Metro,2019-06
+995,TAN - Ben Cau - SOU - SUB 2,South,TAN,DNB,Non-Metro,2019-06
+992,HN - Thanh Oai - NOR - SUB 2 - DP,HN,HN,HN,Metro,2019-06
+666,TRV - Duyen Hai - SOU - SUB 2,South,TRV,MT,Non-Metro,2018-07
+687,TTH - Phu Loc - NOR - SUB 2,North,TTH,BTB,Non-Metro,2018-07
+678,LAD - Lam Ha - SOU - SUB 2,South,LAD,MTTN,Non-Metro,2018-07
+693,BIT - Ham Thuan Nam - SOU - SUB 2,South,BIT,DNB,Non-Metro,2018-07
+729,Test,North,Tes,Others,Non-Metro,2018-07
+702,VT - Xuyen Moc - SOU - SUB 2,South,VT,DNB,Non-Metro,2018-07
+708,KIG - Ha Tien - SOU - SUB 2,South,KIG,MT,Non-Metro,2018-07
+714,QUA - Nam Giang - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2018-07
+699,BIT - Duc Linh - SOU - SUB 2,South,BIT,DNB,Non-Metro,2018-07
+674,QUA - Hiep Duc - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2018-07
+690,NGA - Hoang Mai - NOR - SUB 2,North,NGA,BTB,Non-Metro,2018-07
+696,BIT - Ham Thuan Bac - SOU - SUB 2,South,BIT,DNB,Non-Metro,2018-07
+711,HAG - Vi Xuyen - NOR - SUB 2,North,HAG,NMM,Non-Metro,2018-07
+732,Freight - HN DP Liable,HN,Fre,Others,Metro,2018-07
+670,PHY - Dong Hoa - SOU - SUB 2,South,PHY,MTTN,Non-Metro,2018-07
+682,LAD - Da Teh - SOU - SUB 2,South,LAD,MTTN,Non-Metro,2018-07
+738,Test,North,Tes,Others,Non-Metro,2018-07
+741,QNG - Son Ha - SOU - SUB 2,South,QNG,MTTN,Non-Metro,2018-07
+686,QNG - Ba To - SOU - SUB 2,South,QNG,MTTN,Non-Metro,2018-07
+705,KIG - Hon Dat - SOU - SUB 2,South,KIG,MT,Non-Metro,2018-07
+717,QUA - Dai Loc - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2018-07
+662,KIG - U Minh Thuong - SOU - SUB 2,South,KIG,MT,Non-Metro,2018-07
+84,BET - Ben Tre - SOU,South,BET,MT,Non-Metro,2017-06
+80,HN - LOB - NOR - DP,HN,HN,HN,Metro,2017-06
+76,Police,HCM,Pol,Others,Metro,2017-06
+967,HN - Dan Phuong - NOR - SUB 2 - DP,HN,HN,HN,Metro,2019-04
+956,CAM - Tran Van Thoi - SOU - SUB 2,South,CAM,MT,Non-Metro,2019-04
+963,HCM - Can Gio 2 - SOU - DP,HCM,HCM,HCM,Metro,2019-04
+959,HCM - Fahasa - SOU - DP,HCM,HCM,HCM,Metro,2019-04
+971,Test,North,Tes,Others,Non-Metro,2019-04
+1126,HOB - Luong Son - NOR - SUB 2,North,HOB,NMM,Non-Metro,2019-12
+1115,NGA - Anh Son - NOR - SUB 2,North,NGA,BTB,Non-Metro,2019-12
+1117,Freight Inhouse - Ha Noi,HN,Fre,Others,Metro,2019-12
+1116,NGA - Que Phong - NOR - SUB 2,North,NGA,BTB,Non-Metro,2019-12
+1125,PTH - Cam Khe - NOR - SUB 2,North,PTH,NMM,Non-Metro,2019-12
+1127,HD - Ninh Giang - NOR - SUB 2,North,HD,DBSH,Non-Metro,2019-12
+58,VIL - Vinh Long - SOU,South,VIL,MT,Non-Metro,2017-04
+62,THB - Thai Binh - NOR,North,THB,DBSH,Non-Metro,2017-04
+1001,QUA - Nong Son - SOU - SUB 2,South,QUA,MTTN,Non-Metro,2019-08
+1002,HN - Thach That - NOR - SUB 2 - DP,HN,HN,HN,Metro,2019-08
+1199,LAD - Dam Rong - SOU - SUB 2,South,LAD,MTTN,Non-Metro,2020-07
+1201,DAK - Krong Ana - SOU - SUB 2,South,DAK,MTTN,Non-Metro,2020-07
+1196,LA - Duc Hue - SOU - SUB 2,South,LA,DNB,Non-Metro,2020-07
+1194,KHH - Khanh Son - SOU - SUB 2,South,KHH,MTTN,Non-Metro,2020-07
+1203,HCM - District 12 B - SOU - DP,HCM,HCM,HCM,Metro,2020-07
+1197,HN - Gia Lam - NOR - SUB 2 - DP,HN,HN,HN,Metro,2020-07
+1198,THN - Dai Tu - NOR - SUB 2,North,THN,NMM,Non-Metro,2020-07
+1202,DAK - Krong Bong - SOU - SUB 2,South,DAK,MTTN,Non-Metro,2020-07
+1195,BET - Giong Trom - SOU - SUB 2,South,BET,MT,Non-Metro,2020-07
+271,CAB - Cao Bang - NOR,North,CAB,NMM,Non-Metro,2017-12
+255,HD - Chi Linh - NOR - SUB 2,North,HD,DBSH,Non-Metro,2017-12
+240,HCM - District 4 - SOU - DP,HCM,HCM,HCM,Metro,2017-12
+269,BAK - Bac Kan - NOR,North,BAK,NMM,Non-Metro,2017-12
+238,HCM - Binh Chanh 2 - SOU - DP,HCM,HCM,HCM,Metro,2017-12
+245,HP - Vinh Bao - NOR - SUB 2,North,HP,DBSH,Non-Metro,2017-12
+242,HCM - Binh Chanh 1 - SOU - DP,HCM,HCM,HCM,Metro,2017-12
+259,HN - Bac Tu Liem - NOR - DP,HN,HN,HN,Metro,2017-12
+243,BN - Luong Tai - NOR - SUB 2,North,BN,DBSH,Non-Metro,2017-12
+247,YEB - Yen Bai - NOR,North,YEB,NMM,Non-Metro,2017-12
+249,LCA - Lao Cai - NOR,North,LCA,NMM,Non-Metro,2017-12
+251,HY - Yen My - NOR - SUB 2,North,HY,DBSH,Non-Metro,2017-12
+236,HCM - Phu Nhuan - SOU - DP,HCM,HCM,HCM,Metro,2017-12
