@@ -1,53 +1,53 @@
 shipper_group,hub_region,area,first_pu_ontime_rate,pu_success_ontime_rate,first_deli_ontime_rate,deli_succcess_ontime_day1_rate,success_rate,check1,check2,check3,check4,check5
-Affiliate,HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-DS,HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-EN,HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-ES,HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Lazada Master Account (ASC),HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Others,HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Self-Signup,HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Shopee Vietnam,HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Tiki Marketplace,HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-XB,HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Partnerships,HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Tiki,HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Tiki Return,HCM,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Affiliate,HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-DS,HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-EN,HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-ES,HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Lazada Master Account (ASC),HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Others,HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Self-Signup,HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Shopee Vietnam,HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Tiki Marketplace,HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-XB,HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Partnerships,HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Tiki,HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Tiki Return,HN,Metro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Affiliate,North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-DS,North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-EN,North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-ES,North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Lazada Master Account (ASC),North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Others,North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Self-Signup,North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Shopee Vietnam,North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Tiki Marketplace,North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-XB,North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Partnerships,North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Tiki,North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Tiki Return,North,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Affiliate,South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-DS,South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-EN,South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-ES,South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Lazada Master Account (ASC),South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Others,South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Self-Signup,South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Shopee Vietnam,South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Tiki Marketplace,South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-XB,South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Partnerships,South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Tiki,South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
-Tiki Return,South,Non-Mertro,0.9,0.95,0.95,0.95,0.95,1,1,1,1,1
+Affiliate,HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+DS,HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+EN,HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+ES,HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Lazada Master Account (ASC),HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Others,HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Self-Signup,HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Shopee Vietnam,HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki Marketplace,HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+XB,HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Partnerships,HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki,HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki Return,HCM,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Affiliate,HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+DS,HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+EN,HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+ES,HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Lazada Master Account (ASC),HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Others,HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Self-Signup,HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Shopee Vietnam,HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki Marketplace,HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+XB,HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Partnerships,HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki,HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki Return,HN,Metro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Affiliate,North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+DS,North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+EN,North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+ES,North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Lazada Master Account (ASC),North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Others,North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Self-Signup,North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Shopee Vietnam,North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki Marketplace,North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+XB,North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Partnerships,North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki,North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki Return,North,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Affiliate,South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+DS,South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+EN,South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+ES,South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Lazada Master Account (ASC),South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Others,South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Self-Signup,South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Shopee Vietnam,South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki Marketplace,South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+XB,South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Partnerships,South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki,South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
+Tiki Return,South,Non-Mertro,0.9,0.9,0.9,0.9,0.9,1,1,1,1,1
